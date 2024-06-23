@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "image": "/images/11.png",
+    "name": "Miraj Ahmed",
+    "score": "A+",
+    "percentage": "91%"
+  },
+  {
+    "id": 2,
+    "image": "/images/12.png",
+    "name": "Jahid Hasan",
+    "score": "A",
+    "percentage": "72%"
+  },
+  {
+    "id": 3,
+    "image": "/images/13.png",
+    "name": "Krity Keya",
+    "score": "A+",
+    "percentage": "95%"
+  },
+  {
+    "id": 4,
+    "image": "/images/14.png",
+    "name": "Abdur Rahman",
+    "score": "B",
+    "percentage": "57%"
+  },
+  {
+    "id": 5,
+    "image": "/images/15.png",
+    "name": "Sumaiya Islam",
+    "score": "A",
+    "percentage": "73%"
+  },
+  {
+    "id": 6,
+    "image": "/images/16.png",
+    "name": "Sonia Khatun",
+    "score": "A-",
+    "percentage": "67%"
+  },
+  {
+    "id": 7,
+    "image": "/images/17.png",
+    "name": "Ayesha Akhter",
+    "score": "B",
+    "percentage": "58%"
+  },
+  {
+    "id": 8,
+    "image": "/images/18.png",
+    "name": "Nujahan Khatun",
+    "score": "A",
+    "percentage": "77%"
+  },
+  {
+    "id": 9,
+    "image": "/images/19.png",
+    "name": "Shirin Islam",
+    "score": "A+",
+    "percentage": "84%"
+  },
+  {
+    "id": 10,
+    "image": "/images/110.png",
+    "name": "Shaila anjum",
+    "score": "B",
+    "percentage": "52%"
+  }
+]

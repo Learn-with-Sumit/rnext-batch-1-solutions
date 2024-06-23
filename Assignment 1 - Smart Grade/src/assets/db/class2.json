@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "image": "/images/21.png",
+    "name": "Munjerin Ahmed",
+    "score": "B",
+    "percentage": "58%"
+  },
+  {
+    "id": 2,
+    "image": "/images/22.png",
+    "name": "Jahid Hasan",
+    "score": "A-",
+    "percentage": "67%"
+  },
+  {
+    "id": 3,
+    "image": "/images/23.png",
+    "name": "Masir Ahmed",
+    "score": "A",
+    "percentage": "73%"
+  },
+  {
+    "id": 4,
+    "image": "/images/24.png",
+    "name": "Abdur Rahman",
+    "score": "A",
+    "percentage": "77%"
+  },
+  {
+    "id": 5,
+    "image": "/images/25.png",
+    "name": "Saiful Islam",
+    "score": "A+",
+    "percentage": "95%"
+  },
+  {
+    "id": 6,
+    "image": "/images/26.png",
+    "name": "Piyas Hasan",
+    "score": "A",
+    "percentage": "72%"
+  },
+  {
+    "id": 7,
+    "image": "/images/27.png",
+    "name": "Ashfak Ali",
+    "score": "A+",
+    "percentage": "91%"
+  },
+  {
+    "id": 8,
+    "image": "/images/28.png",
+    "name": "Sonia Sultana",
+    "score": "B",
+    "percentage": "57%"
+  },
+  {
+    "id": 9,
+    "image": "/images/29.png",
+    "name": "Naimul Hasan",
+    "score": "A+",
+    "percentage": "84%"
+  },
+  {
+    "id": 10,
+    "image": "/images/210.png",
+    "name": "Jamshed ali",
+    "score": "B",
+    "percentage": "52%"
+  }
+]

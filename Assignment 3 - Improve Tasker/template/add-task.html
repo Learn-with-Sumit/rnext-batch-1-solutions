@@ -1,0 +1,155 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lato:wght@300;400;700&family=Sora&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles/output.css">
+    <title>Add New Task | Learn with Sumit</title>
+    
+  </head>
+  <body class="bg-[#1D212B] font-[Inter] max-md:px-4 lg:text-lg">
+    <!-- Navbar Starts -->
+    <nav class="py-6 md:py-8">
+      <div class="container mx-auto flex items-center justify-between gap-x-6">
+        <!-- Logo -->
+       <!-- Logo -->
+			<a href="/">
+				<img class="h-[45px]" src="./assets/lws-logo-en.svg" alt="Lws" />
+			</a>  
+        <!-- Logo Ends -->
+        <!-- Search Box -->
+        <form>
+          <div class="flex">
+            <div
+              class="relative overflow-hidden rounded-lg text-gray-50 md:min-w-[380px] lg:min-w-[440px]"
+            >
+              <input
+                type="search"
+                id="search-dropdown"
+                class="z-20 block w-full bg-gray-800 px-4 py-2.5 pr-10 focus:outline-none"
+                placeholder="Search Task"
+                required
+              />
+              <button
+                type="submit"
+                class="absolute right-2 top-0 h-full rounded-e-lg text-white md:right-3"
+              >
+                <svg
+                  class="h-4 w-4"
+                  aria-hidden="true"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 20 20"
+                >
+                  <path
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"
+                  />
+                </svg>
+                <span class="sr-only">Search</span>
+              </button>
+            </div>
+          </div>
+        </form>
+        <!-- Search Box Ends -->
+      </div>
+    </nav>
+    <!-- Navbar Ends -->
+    <!-- Add Task Form -->
+
+    <form
+      class="mx-auto my-10 w-full max-w-[740px] rounded-xl border border-[#FEFBFB]/[36%] bg-[#191D26] p-9 max-md:px-4 lg:my-20 lg:p-11"
+    >
+      <h2
+        class="mb-9 text-center text-2xl font-bold text-white lg:mb-11 lg:text-[28px]"
+      >
+        Add New Task
+      </h2>
+
+      <!-- inputs -->
+      <div class="space-y-9 text-white lg:space-y-10">
+        <!-- title -->
+        <div class="space-y-2 lg:space-y-3">
+          <label for="title">Title</label>
+          <input
+            class="block w-full rounded-md bg-[#2D323F] px-3 py-2.5"
+            type="text"
+            name="title"
+            id="title"
+            required
+          />
+        </div>
+        <!-- description -->
+        <div class="space-y-2 lg:space-y-3">
+          <label for="description">Description</label>
+          <textarea
+            class="block min-h-[120px] w-full rounded-md bg-[#2D323F] px-3 py-2.5 lg:min-h-[180px]"
+            type="text"
+            name="description"
+            id="description"
+            required
+          ></textarea>
+        </div>
+        <!-- input group -->
+        <div
+          class="grid-cols-2 gap-x-4 max-md:space-y-9 md:grid lg:gap-x-10 xl:gap-x-20"
+        >
+          <!-- tags -->
+          <div class="space-y-2 lg:space-y-3">
+            <label for="tags">Tags</label>
+            <input
+              class="block w-full rounded-md bg-[#2D323F] px-3 py-2.5"
+              type="text"
+              name="tags"
+              id="tags"
+              required
+            />
+          </div>
+          <!-- priority -->
+          <div class="space-y-2 lg:space-y-3">
+            <label for="priority">Priority</label>
+            <select
+              class="block w-full cursor-pointer rounded-md bg-[#2D323F] px-3 py-2.5"
+              name="priority"
+              id="priority"
+              required
+            >
+              <option value="">Select Priority</option>
+              <option value="low">Low</option>
+              <option value="medium">Medium</option>
+              <option value="high">High</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <!-- inputs ends -->
+      <div class="mt-16 flex justify-center lg:mt-20">
+        <button
+          type="submit"
+          class="rounded bg-blue-600 px-4 py-2 text-white transition-all hover:opacity-80"
+        >
+          Create new Task
+        </button>
+      </div>
+    </form>
+    <!-- Add Task Form Ends -->
+    <!-- Footer -->
+    <footer class="py-6 md:py-8">
+      <div class="container mx-auto">
+        <p class="text-center text-xs text-[#6A6A6A] lg:text-sm">
+          Copyright ©2023 | All rights reserved by Learn with Sumit
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

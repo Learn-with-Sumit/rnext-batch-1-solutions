@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&family=Playfair+Display:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>News Feeder | Learn with Sumit</title>
+    <link rel="stylesheet" href="./styles/output.css" />
+
+    <style>
+      @font-face {
+        font-family: 'Fira Sans';
+        src: url('fonts/fira/eot/FiraSans-Italic.eot');
+        src: url('fonts/fira/eot/FiraSans-Italic.eot')
+            format('embedded-opentype'),
+          url('fonts/fira/woff2/FiraSans-Italic.woff2') format('woff2'),
+          url('fonts/fira/woff/FiraSans-Italic.woff') format('woff'),
+          url('fonts/fira/woff2/FiraSans-Italic.ttf') format('truetype');
+        font-weight: normal;
+        font-style: italic;
+      }
+
+      /* TT Commons */
+      @font-face {
+        font-family: 'TT Commons';
+        src: url('src/assets/fonts/tt-commons/TTCommonsRegular.otf');
+        font-weight: 400;
+        font-style: normal;
+      }
+
+      @font-face {
+        font-family: 'TT Commons';
+        src: url('src/assets/fonts/tt-commons/TTCommonsSemiBold.otf');
+        font-weight: 600;
+        font-style: normal;
+      }
+      /* Publico Headline Web */
+      @font-face {
+        font-family: 'Publico Headline Web';
+        src: url('src/assets/fonts/publico-headline-web/Publico-Headline-Web-Bold.ttf');
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      body {
+        font-family: TT Commons, 'sans-serif';
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: Publico Headline Web, 'serif';
+        line-height: 110%;
+      }
+      a {
+        transition: color 0.3s;
+      }
+      a:hover {
+        color: #00d991;
+      }
+      .container {
+        padding: 0 1rem;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

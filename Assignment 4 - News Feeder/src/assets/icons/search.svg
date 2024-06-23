@@ -1,0 +1,22 @@
+<svg
+width="22"
+height="22"
+viewBox="0 0 22 22"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+>
+    <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
+        d="M10.0794 15.2486C12.9343 15.2486 15.2487 12.9342 15.2487 10.0793C15.2487 7.22439 12.9343 4.91003 10.0794 4.91003C7.22452 4.91003 4.91016 7.22439 4.91016 10.0793C4.91016 12.9342 7.22452 15.2486 10.0794 15.2486Z"
+        stroke="black"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+    />
+    <path
+        d="M13.7344 13.7342L17.7435 17.7439"
+        stroke="black"
+        stroke-width="1.5"
+    />
+</svg>

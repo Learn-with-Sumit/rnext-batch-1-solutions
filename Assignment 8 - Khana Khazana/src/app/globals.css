@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .container {
+    @apply mx-auto px-4 max-w-7xl;
+  }
+
+  nav .active {
+    @apply text-[#eb4a36] font-medium;
+  }
+
+  select {
+    @apply accent-red-600;
+  }
+
+  .card {
+    @apply max-w-[450px];
+  }
+
+  .card img {
+    @apply w-full object-cover;
+  }
+
+  .step h3 {
+    @apply text-[#eb4a36] uppercase font-light text-lg tracking-wider my-4;
+  }
+
+  .step p {
+    @apply text-gray-500 leading-8 mb-6 ml-8;
+  }
+
+  .login-form {
+    @apply flex flex-col my-6;
+  }
+
+  .login-form div {
+    @apply flex flex-col gap-2 my-2;
+  }
+
+  .login-form input {
+    @apply border border-black/20 rounded-md px-4 py-2;
+  }
+}

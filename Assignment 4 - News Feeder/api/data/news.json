@@ -1,0 +1,1998 @@
+{
+  "general": {
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Blasts near Pakistan candidates' offices kill 24 on eve of election - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/asia-pacific/jail-pakistans-imran-khan-asks-supporters-wait-by-poll-stations-after-vote-2024-02-07/",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T09:53:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "The Associated Press",
+        "title": "Honda is recalling over 750000 vehicles because air bags may inflate when they shouldn't because of faulty sensors - Fortune",
+        "description": "The sensors are required to disable the air bags if children or small adults are in the seats. If that doesn't happen, it increases the risk of injury.",
+        "url": "https://fortune.com/2024/02/07/honda-recalling-750000-vehicles-air-bags-inflate-faulty-sensors/",
+        "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/02/AP24037470230038-e1707299355225.jpg?resize=1200,600",
+        "publishedAt": "2024-02-07T09:52:00Z",
+        "content": "The recall covers certain Honda Pilot, Accord, Civic sedan, HR-V and Odyssey models from the 2020 through 2022 model years, as well as the 2020 Fit and Civic Coupe. Also included are the 2021 and 202… [+885 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Niha Masih",
+        "title": "Listeria outbreak prompts recall of cheese, other dairy products: What to know - The Washington Post",
+        "description": "Rizo Lopez Foods recalled dozens of cheese and dairy products after the FDA and the CDC tied it to an outbreak that has killed two and hospitalized over 20 since 2014.",
+        "url": "https://www.washingtonpost.com/health/2024/02/07/listeria-outbreak-cheese-recall-2024/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5PS7TMAPMGQZOIX3IBIMDA2JFY.JPG&w=1440",
+        "publishedAt": "2024-02-07T09:45:00Z",
+        "content": "California-based Rizo Lopez Foods has recalled dozens of its cheese and dairy products after federal health officials linked the company to a decade-long listeria outbreak that has led to two deaths … [+2901 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Gina Martinez",
+        "title": "Pod of orcas seen trapped by thick sea ice off northern Japan believed to be free - CBS News",
+        "description": "A drone spotted a pod of about 10 killer whales stuck in thick sea ice off northern Japan's coast, but 24 hours later they were gone.",
+        "url": "https://www.cbsnews.com/news/orcas-trapped-drift-ice-hokkaido-japan-drone-footage/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/07/b6c6ae89-d145-44f6-9d7c-0f18aa63f8d3/thumbnail/1200x630/df31f40f262ebc253ba1e5bea5a68d97/orcas.png?v=09f617bc45cf30bf4fa8525d3acea178",
+        "publishedAt": "2024-02-07T09:41:00Z",
+        "content": "At least 10 orcas that were seen trapped by sea ice off the coast of northern Japan on Tuesday appeared to have escaped, local officials in the nearest town said Wednesday.\r\nDrone video released by l… [+981 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Lauren Said-Moorhouse, Max Foster",
+        "title": "Prince Harry returns to UK to be at King Charles’ side, in rare moment of unity amid family rift - CNN",
+        "description": "Prince Harry has flown back to the United Kingdom to see his father, according to media reports, after the shock announcement on Monday from Buckingham Palace that King Charles III has cancer.",
+        "url": "https://www.cnn.com/2024/02/06/uk/prince-harry-king-charles-health-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/lnp-royal-health-pma-01.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-02-07T09:01:00Z",
+        "content": "Prince Harry has flown back to the United Kingdom to see his father, according to media reports, after the shock announcement on Monday from Buckingham Palace that King Charles III has cancer.\r\nHarry… [+5659 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Exclusive: Hamas proposes three-stage ceasefire over 135 days, leading to end of war - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/middle-east/hamas-seeks-prisoner-hostage-exchange-withdrawal-israeli-forces-ceasefire-2024-02-07/",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T08:17:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Sebastián Piñera: Former president of Chile dies in helicopter crash - BBC.com",
+        "description": "Sebastián Piñera became known abroad for overseeing the spectacular rescue of 33 miners in 2010.",
+        "url": "https://www.bbc.com/news/world-latin-america-68223520",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7E83/production/_132578323_waveepa.jpg",
+        "publishedAt": "2024-02-07T08:07:07Z",
+        "content": "By Ione Wells in São Paulo and Patrick Jackson in LondonBBC News\r\nWatch: President Piñera embraces Florencio Avalos, the first of the trapped Chilean miners to be rescued in 2010\r\nChilean ex-Presiden… [+2570 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "By <a href=\"/profiles/amir-vera\">Amir Vera</a>, <a href=\"/profiles/tori-powell\">Tori B. Powell</a> and <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, CNN",
+        "title": "Haley loses Nevada's GOP primary, CNN projects, as Biden wins Democratic contest - CNN",
+        "description": "GOP candidate Nikki Haley lost Nevada's Republican primary to \"none of these candidates,\" according to a CNN projection, as President Joe Biden won the state's Democratic presidential primary.",
+        "url": "https://www.cnn.com/politics/live-news/nevada-primary-election-02-06-24/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240202112716-biden-haley-trump-split-super-tease.jpg",
+        "publishedAt": "2024-02-07T08:00:00Z",
+        "content": "Just how does Joe Biden win reelection? National polls show him trailing Donald Trump more often than leading him a rare position for an incumbent to be in at this point in the campaign.\r\nThese natio… [+1115 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBC Southern California"
+        },
+        "author": "Helen Jeong",
+        "title": "JPL plans to lay off hundreds of employees due to lack of funding - NBC Southern California",
+        "description": "NASA’s Jet Propulsion Laboratory is poised to lay off 530 employees along with 40 contractors as the federally funded research and development center has yet to secure funding for the 2024 fiscal year, according to an internal memo. “While we still do not hav…",
+        "url": "http://www.nbclosangeles.com/news/local/jpl-plans-to-lay-off-hundreds-of-employees-due-to-lack-of-funding/3332447/",
+        "urlToImage": "https://media.nbclosangeles.com/2024/02/GettyImages-925624260-1.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2024-02-07T07:27:07Z",
+        "content": "NASAs Jet Propulsion Laboratory is poised to lay off 530 employees along with 40 contractors as the federally funded research and development center has yet to secure funding for the 2024 fiscal year… [+1147 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "ROBERT YOON",
+        "title": "AP Race Call: Joe Biden easily wins Nevada Democratic primary - The Associated Press",
+        "description": "President Joe Biden has easily won Tuesday’s Democratic presidential primary in Nevada, his second lopsided victory in four days over a mostly unknown field of challengers. The Associated Press declared Biden the winner at 11:39 p.m. ET based on initial vote …",
+        "url": "https://apnews.com/article/nevada-democratic-primary-biden-race-call-winner-d6e7c1034b3363591f311b8764c12809",
+        "urlToImage": "https://dims.apnews.com/dims4/default/a98ab66/2147483647/strip/true/crop/6777x3812+0+353/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F11%2F66%2F3054c0263ea7600e95fc1a1a8356%2F19ce89384ae048b493e751ad9ecb8b7c",
+        "publishedAt": "2024-02-07T06:11:00Z",
+        "content": "WASHINGTON (AP) President Joe Biden has easily won Tuesdays Democratic presidential primary in Nevada, his second lopsided victory in four days over a mostly unknown field of challengers.\r\nThe Associ… [+1640 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Suntimes.com"
+        },
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Wednesday, Feb. 7, 2024 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/2024/2/7/24062663/horoscopes-today-wednesday-feb-7-2024",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/e1c79c4/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd5%2F64%2Fb62c6536f9adb6a022fc76ade5d0%2Fgeorgia-mug.jpeg",
+        "publishedAt": "2024-02-07T06:03:29Z",
+        "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Capricorn.\r\nAries (March 21-April 19)\r\nSomething unexpected might occur that makes you look good to others, es… [+3908 chars]"
+      },
+
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "MARK SHERMAN, NICHOLAS RICCARDI",
+        "title": "What to know about Supreme Court arguments over Trump, the Capitol attack and the ballot - The Associated Press",
+        "description": "The Supreme Court has scheduled a special session to hear arguments over whether former President Donald Trump is ineligible to be president again and can be kept off the ballot. The case will be argued Thursday. It stems from a section of the 14th amendment …",
+        "url": "https://apnews.com/article/supreme-court-trump-election-insurrection-719eac1b23ee7103c5d84914156e4236",
+        "urlToImage": "https://dims.apnews.com/dims4/default/f441dea/2147483647/strip/true/crop/5405x3040+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F10%2F05%2Fc17ca3ba62de30e9015ae6bed98b%2F0c2e5cffcbfb4349810b5d097be4a32e",
+        "publishedAt": "2024-02-07T05:05:00Z",
+        "content": "WASHINGTON (AP) The Supreme Court has scheduled a special session to hear arguments over whether former President Donald Trump is ineligible to be president again and can be kept off the ballot.\r\nThe… [+5887 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "House GOP wants another try on Mayorkas after failed impeachment vote - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2024/02/07/republicans-mayorkas-impeachment-house-floor",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T03:45:38Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Espn.ph"
+        },
+        "author": null,
+        "title": "Clemson takes down No. 3 UNC on road to boost NCAA résumé - ESPN",
+        "description": "PJ Hall had 25 points and Clemson survived a blown 16-point lead to stun No. 3 North Carolina 80-76 on Tuesday night, earning a marquee win for a team battling to improve its NCAA tournament chances.",
+        "url": "https://www.espn.ph/mens-college-basketball/story/_/id/39474129/clemson-tigers-basketball-takes-no-3-unc-tar-heels-road",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0207%2Fr1287873_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-02-07T03:01:31Z",
+        "content": "CHAPEL HILL, N.C. -- Brad Brownell kept telling his Clemson players that they were a better team than their results had shown so far with their NCAA tournament hopes in question.\r\nTaking down No. 3 N… [+3442 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Jeremy Barr",
+        "title": "Tucker Carlson says he will interview Vladimir Putin in Moscow - The Washington Post",
+        "description": "Tucker Carlson, the ousted Fox News star, has expressed sympathy for Russian President Vladimir Putin and antagonism toward Ukraine.",
+        "url": "https://www.washingtonpost.com/style/media/2024/02/06/tucker-carlson-will-interview-putin/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4JNJOLOPXVECFA55MYH5ZZULUI_size-normalized.jpg&w=1440",
+        "publishedAt": "2024-02-07T02:51:00Z",
+        "content": "Tucker Carlson, who has hosted an online video series on the social media platform X since he was fired by Fox News last spring, announced on Tuesday that he will soon conduct an interview with Russi… [+4180 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MLB.com"
+        },
+        "author": "Brian McTaggart",
+        "title": "Jose Altuve signs contract extension with Astros - MLB.com",
+        "description": "HOUSTON -- Jose Altuve, one of the most accomplished and popular players in Astros history and a cornerstone of a pair of World Series championship teams, will likely end his career in Houston.\nThe star second baseman agreed to a five-year contract extension …",
+        "url": "https://www.mlb.com/news/jose-altuve-signs-contract-extension-with-astros",
+        "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kbmqzvhyzyarvbipe3m8.jpg",
+        "publishedAt": "2024-02-07T02:47:55Z",
+        "content": "HOUSTON -- Jose Altuve, one of the most accomplished and popular players in Astros history and a cornerstone of a pair of World Series championship teams, will likely end his career in Houston.\r\nThe … [+3792 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Houthis say they fired at two ships in Red Sea, damaging both - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/middle-east/minor-damage-ship-hit-by-projectile-off-yemens-hodeidah-coast-ukmto-ambrey-2024-02-06/",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T02:37:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Spaceflight Now"
+        },
+        "author": null,
+        "title": "Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base – Spaceflight Now - Spaceflight Now",
+        "description": "SpaceX scrubbed the launch due to unfavorable weather on the West Coast. The next launch opportunity is Wednesday, Feb. 7, at 5:17 p.m. PST (8:17 p.m. EST, 0117 UTC).",
+        "url": "https://spaceflightnow.com/2024/02/07/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/",
+        "urlToImage": "http://spaceflightnow.com/wp-content/uploads/2024/01/20240118-Starlink-File-Photo-Feature-Image.jpg",
+        "publishedAt": "2024-02-07T02:04:53Z",
+        "content": "File: A Falcon 9 rocket stands ready to launch a Starlink mission. Image: SpaceX\r\nUpdate 12:45 a.m. EST: SpaceX scrubs the Starlink mission Tuesday night.\r\nPoor weather proved insurmountable for the … [+1642 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Moody's downgrades NY Community Bancorp to junk, shares plunge - CNBC Television",
+        "description": "Hosted by Brian Sullivan, “Last Call” is a fast-paced, entertaining business show that explores the intersection of money, culture and policy. Tune in Monday...",
+        "url": "https://www.youtube.com/watch?v=K4e8oPWc_pY",
+        "urlToImage": "https://i.ytimg.com/vi/K4e8oPWc_pY/maxresdefault.jpg",
+        "publishedAt": "2024-02-07T02:04:52Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Brie Stimson",
+        "title": "Toby Keith was 'misunderstood' because he was 'painted in a certain way,' rep says after his death - Fox News",
+        "description": "Toby Keith's longtime rep Elaine Schock said the country star, who died on Monday night after a battle with stomach cancer, was \"painted in a certain way\" that was \"incorrect.\"",
+        "url": "https://www.foxnews.com/entertainment/toby-keith-misunderstood-painted-certain-way-rep-says-his-death",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/3fa18646-toby-keith.jpg",
+        "publishedAt": "2024-02-07T01:58:00Z",
+        "content": "Toby Keith was \"misunderstood\" because he was \"painted in a certain way,\" the late country stars longtime rep Elaine Schock said this week following his death on Monday.\r\n\"I loved Toby Keith,\" Schock… [+2511 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Nadine El-Bawab",
+        "title": "Jury finds Jennifer Crumbley guilty of involuntary manslaughter in son's school shooting - ABC News",
+        "description": "Ethan Crumbley killed four students at his high school in November 2021.",
+        "url": "https://abcnews.go.com/US/jury-reaches-verdict-jennifer-crumbley-manslaughter-trial/story?id=106924349",
+        "urlToImage": "https://i.abcnewsfe.com/a/66442464-fa47-43f9-af0d-1f8377c178fe/jennifer-crumbley-on-stand-gty-jt-240203_1706980289818_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-02-07T01:18:45Z",
+        "content": "A jury has found Jennifer Crumbley, the mother of Michigan school shooter Ethan Crumbley, guilty of involuntary manslaughter in connection with the shooting deaths of four students at Oxford High Sch… [+6903 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Ellyn Lapointe",
+        "title": "NASA Just Dropped Stunning Close-Up Pics of Volcanic Eruptions on Jupiter's Moon Io - ScienceAlert",
+        "description": "NASA's Juno spacecraft flew extremely close to Jupiter's eruptive moon Io and took some stunning photos of the world's volcanic activity in action.",
+        "url": "https://www.businessinsider.com/nasa-close-up-photos-show-volcanoes-erupt-on-jupiters-moon-2024-2",
+        "urlToImage": "https://i.insider.com/65c2516c43bb77284ba3f7dd?width=1200&format=jpeg",
+        "publishedAt": "2024-02-07T00:34:43Z",
+        "content": "NASA's Juno spacecraft snapped detailed images of the most volcanically active world in our solar system on Saturday. During this close fly-by, the spacecraft spotted plumes of volcanic activity erup… [+2255 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Sean Hollister",
+        "title": "Watch 11 minutes of Final Fantasy VII Rebirth gameplay features — and the final trailer - The Verge",
+        "description": "Final Fantasy VII Rebirth is coming February 29th, and both Sony and Square Enix want to make damn sure that fans know this game is a can’t-miss event. Here’s over 12 minutes of video.",
+        "url": "https://www.theverge.com/2024/2/6/24064121/final-fantasy-vii-rebirth-final-trailer-gameplay-video",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/vLkFFjUCNy0aTq8-FTeI5cDTQEE=/0x0:2560x1790/1200x628/filters:focal(1280x895:1281x896)/cdn.vox-cdn.com/uploads/chorus_asset/file/25271214/SCR_20240206_oise.jpeg",
+        "publishedAt": "2024-02-07T00:17:00Z",
+        "content": "Watch 11 minutes of Final Fantasy VII Rebirth gameplay features and the final trailer\r\nWatch 11 minutes of Final Fantasy VII Rebirth gameplay features and the final trailer\r\n / Unlocking the world ma… [+210 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Eduardo Cuevas",
+        "title": "Ditch that plastic container, study says. Plastics linked to thousands of preterm births. - USA TODAY",
+        "description": "Babies who are exposed to the phthalates have medical bills that cost billions over their lifetimes in the U.S., researchers said.",
+        "url": "https://www.usatoday.com/story/news/health/2024/02/06/plastics-linked-to-preterm-birth/72492632007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2022/08/15/USATODAY/usatsports/imageForEntry11-5Ql.jpg?width=1365&height=768&fit=crop&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-06T23:30:29Z",
+        "content": "Chemicals commonly used for plastic in food containers, lotion and other products are linked to tens of thousands of preterm births in the U.S. each year, according to a new study.\r\nThose babies medi… [+5865 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5google.com"
+        },
+        "author": "Abner Li",
+        "title": "Apple Vision Pro for the Google (and Android) user - 9to5Google",
+        "description": "Chrome. I need Google’s browser on visionOS even if it’s just the iPad version. That’s the thing I’m missing the...",
+        "url": "https://9to5google.com/2024/02/06/apple-vision-pro-for-the-google-and-android-user/",
+        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/vision-pro-youtube-music.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-02-06T22:15:00Z",
+        "content": "Chrome. I need Googles browser on visionOS even if its just the iPad version. Thats the thing Im missing the most as a heavy user of Google apps since getting Apple Vision Pro.\r\n9to5Google has a rebo… [+4371 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Rio de Janeiro: Dengue spike prompts health emergency ahead of Carnival - BBC.com",
+        "description": "The city is seeing a huge rise in the cases of dengue fever just days before its colourful Carnival.",
+        "url": "https://www.bbc.com/news/world-latin-america-68215360",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1639C/production/_132563019_18b8cceb45679c50df886cd3486b2aad01efbd430_0_5000_32281000x646.jpg",
+        "publishedAt": "2024-02-06T22:10:35Z",
+        "content": "By Vanessa BuschschlüterBBC News\r\nHealth workers have been trying to get rid of stagnant water where the mosquitoes that transmit dengue breed\r\nThe authorities in the Brazilian city of Rio de Janeiro… [+2234 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Leah Sarnoff",
+        "title": "What to know about NASA's PACE mission set to launch Thursday after delay - ABC News",
+        "description": "NASA's PACE spacecraft is set to launch early Thursday morning from Florida.",
+        "url": "https://abcnews.go.com/US/nasas-pace-mission-hopes-examine-oceanic-atmospheric-mysteries/story?id=106986291",
+        "urlToImage": "https://i.abcnewsfe.com/a/726117ce-016d-4b32-b03e-3db8585acc71/pace-nasa-mission-ht-lv-240206_1707255163440_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-02-06T21:56:02Z",
+        "content": "While NASA is known for observing and researching outer space, the agency is also using a spacecraft to explore a frontier here on Earth -- the world's oceanic and atmospheric mysteries.\r\nNASA's PACE… [+2976 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Ed Cara",
+        "title": "Vaccine Life Hack: Use Both Arms - Gizmodo",
+        "description": "New research finds that getting vaccinated in both arms can boost your immune response to covid-19 and possibly other diseases.",
+        "url": "https://gizmodo.com/vaccine-life-hack-use-both-arms-1851231749",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7539c61be3809fe3539b1e0fe8ae3792.jpg",
+        "publishedAt": "2024-02-06T21:20:00Z",
+        "content": "Heres one weird trick for making the most out of your next two-dose vaccine: get a shot in both arms. A recent study found evidence that a two-arm approach can noticeably, if modestly, improve the bo… [+3495 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Entertainment Tonight"
+        },
+        "author": "Miguel A. Melendez",
+        "title": "See Travis Kelce's Reaction When Asked About Taylor Swift Engagement Speculation - Entertainment Tonight",
+        "description": "The NFL star played it off smoothly during Super Bowl LVIII Media Day in Las Vegas.",
+        "url": "https://www.etonline.com/see-travis-kelces-reaction-when-asked-about-taylor-swift-engagement-speculation-219352",
+        "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-02/GettyImages-1989090334.jpg?h=199d8c1f",
+        "publishedAt": "2024-02-06T20:49:00Z",
+        "content": "When Travis Kelce says he's focused it's because he's really focused, as evidenced by his ability to sidestep a Taylor Swift engagement question.\r\nThe Kansas City Chiefs star pulled the smooth maneuv… [+2142 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Biden urges Congress to pass border deal that includes aid for Ukraine and Israel - BBC.com",
+        "description": "The bill overhauls the US immigration system and also includes funding for Ukraine and Israel.",
+        "url": "https://www.bbc.com/news/world-us-canada-68136461",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D3A1/production/_132577145_gettyimages-1990690571.jpg",
+        "publishedAt": "2024-02-06T20:00:53Z",
+        "content": "By Bernd Debusmann JrBBC News, Washington\r\nDo Republicans serve Trump or the people?: Biden\r\nPresident Joe Biden and Donald Trump are trading blame for the stalling of a bipartisan immigration bill.\r… [+3202 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "2024 Super Bowl: Ranking every Chiefs and 49ers starter ahead of Las Vegas showdown for NFL championship - CBS Sports",
+        "description": "Pete Prisco says the teams are pretty split as he ranks every Super Bowl LVIII starter",
+        "url": "https://www.cbssports.com/nfl/news/2024-super-bowl-ranking-every-chiefs-and-49ers-starter-ahead-of-las-vegas-showdown-for-nfl-championship/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/02/05/fc9830af-4a64-48f9-87f2-53f56f7c66ef/thumbnail/1200x675/f6ed4dc52d0bc39f355548d901eb9535/artboard-3.png",
+        "publishedAt": "2024-02-06T19:33:00Z",
+        "content": "LAS VEGAS When evaluating Super Bowl teams, I always like to rank the starters, which means a total of 46 players counting both nickel corners. I don't count specialists because by now you know my di… [+2015 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Florence Ion",
+        "title": "iPhone 15 Pro Vs Samsung S24 Ultra Battery Life - Gizmodo",
+        "description": "Android Phones Are Finally Competing With the iPhone 15 Pro on Battery Life",
+        "url": "https://gizmodo.com/samsung-ultra-s24-iphone-15-pro-battery-life-1851228365",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d74169e1b172f0a82864100c66e93728.jpg",
+        "publishedAt": "2024-02-06T17:30:00Z",
+        "content": "No matter what phone youre carrying around, the one thing that cant falter is battery life. Thats why we test every smartphone that comes through our review desk for its relative longevity. So far, A… [+3480 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Craig Haubert, Tom VanHaaren",
+        "title": "College football signing day - Biggest moves and most interesting 2024 classes - ESPN",
+        "description": "The 2024 recruiting class is nearing the finish line. With signing day upon us, we're looking at how we got here.",
+        "url": "https://www.espn.com/college-football/recruiting/insider/story/_/id/39464816/college-football-2023-signing-day-best-moves-intereresting-recruiting-classes",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0205%2Fr1287214_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-02-06T11:29:00Z",
+        "content": "National signing day is Wednesday and it will mark the end of college football's 2024 recruiting cycle.\r\nFollowing the early signing period in late December, much of the class signed their letters of… [+13671 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": null,
+        "title": "‘It’s a new era’: Weight-loss treatments significantly lower blood pressure, studies find - CNN",
+        "description": "Two new studies showed a significant reduction in blood pressure in adults who underwent certain weight-loss treatments. One study showed a significant decrease in the blood pressure of people who received weekly injections of the drug tirzepatide; the other …",
+        "url": "https://www.cnn.com/2024/02/05/health/weight-loss-blood-pressure/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1394231031-copy.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-02-05T19:00:00Z",
+        "content": "Two new studies showed a significant reduction in blood pressure in adults who underwent certain weight-loss treatments. One study showed a significant decrease in the blood pressure of people who re… [+8897 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Videocardz.com"
+        },
+        "author": null,
+        "title": "NvTrueHDR NVIDIA RTX HDR mod can convert SDR games to HDR - VideoCardz.com",
+        "description": "NvTrueHDR mod enables HDR in SDR games for GeForce RTX GPUs NVIDIA has supposedly been working on enabling High Dynamic Range (HDR) automatically to all games using Standard Definition Range (SDR). This was discovered by modding community has already been rel…",
+        "url": "https://videocardz.com/newz/nvtruehdr-nvidia-rtx-hdr-mod-can-convert-sdr-games-to-hdr",
+        "urlToImage": "https://cdn.videocardz.com/1/2024/02/NVIDIA-AUTO-HDR-HERO.jpg",
+        "publishedAt": "2024-02-05T10:53:00Z",
+        "content": "NVIDIA has supposedly been working on enabling High Dynamic Range (HDR) automatically to all games using Standard Definition Range (SDR). This was discovered by modding community has already been rel… [+2696 chars]"
+      }
+    ]
+  },
+  "business": {
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Stocks to Watch Wednesday: Alibaba, Snap, Uber, Ford - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-07-2024/card/stocks-to-watch-wednesday-nycb-snap-ford-kVltxsVkMgD0Ymx4siKy",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T14:32:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Jessica Dickler",
+        "title": "'Loud budgeting' is having a moment — here's how to take advantage of it - CNBC",
+        "description": "In 2024, there's a new idea gaining steam that promotes speaking up about saving money — welcome to the era of \"loud budgeting.\"",
+        "url": "https://www.cnbc.com/2024/02/07/loud-budgeting-is-having-a-moment-heres-how-to-take-advantage.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107352407-1703793344487-gettyimages-1356124117-5d4_8479stock.jpeg?v=1707242603&w=1920&h=1080",
+        "publishedAt": "2024-02-07T14:04:55Z",
+        "content": "TikTok's latest financial trend, \"loud budgeting,\" can be as simple as saying \"Hey, I don't want to spend money right now,\" Lukas Battle explained on CNBC's \"Power Lunch.\"\r\nThe concept encourages con… [+4095 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Aislinn Murphy",
+        "title": "Disney CEO Bob Iger gets more activist investor heat amid stock slump - Fox Business",
+        "description": "In the lead up to Disney’s release of first-quarter financial results on Wednesday afternoon, activist investors have continued to push the company.",
+        "url": "https://www.foxbusiness.com/markets/disney-ceo-bob-iger-gets-more-activist-investor-heat-amid-stock-slump",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/04/0/0/DISNEY.jpg?ve=1&tl=1",
+        "publishedAt": "2024-02-07T14:00:00Z",
+        "content": "In the lead up to Disney’s release of first-quarter financial results on Wednesday afternoon, activist investors have continued to push the entertainment giant.\r\nThat pressure has come from two entit… [+3601 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Jeff Cox",
+        "title": "Fed's Neel Kashkari expects only two or three interest rate cuts this year - CNBC",
+        "description": "\"Sitting here today, I would say, two or three cuts would seem to be appropriate for me right now,\" he said during a CNBC \"Squawk Box\" interview.",
+        "url": "https://www.cnbc.com/2024/02/07/feds-neel-kashkari-expects-only-two-or-three-interest-rate-cuts-this-year.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107244966-16847935762023-05-22t212314z_1510236066_rc2w31ayaot1_rtrmadp_0_usa-fed-kashkari.jpeg?v=1695820658&w=1920&h=1080",
+        "publishedAt": "2024-02-07T13:52:33Z",
+        "content": "Minneapolis Federal Reserve President Neel Kashkari said Wednesday he expects the central bank to cut rates only a few times this year, contrary to market expectations.\r\n\"Sitting here today, I would … [+2329 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Rohan Goswami",
+        "title": "Roblox shares rise 12% after company beats estimates and issues strong guidance - CNBC",
+        "description": "Roblox reported results for the fiscal fourth quarter and full year that beat consensus estimates on the top and bottom lines.",
+        "url": "https://www.cnbc.com/2024/02/07/roblox-rblx-q3-2023-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106851960-1615391544622PRESS-RBLX-OB-Photo-20210310-3-2-jpg?v=1686673908&w=1920&h=1080",
+        "publishedAt": "2024-02-07T13:04:42Z",
+        "content": "Roblox reported results for the fiscal fourth quarter Wednesday that beat consensus estimates on the top and bottom lines. Shares were up 12% in morning trading.\r\nHere's how the company did:\r\n<ul><li… [+2745 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Motley Fool"
+        },
+        "author": "David Jagielski, The Motley Fool",
+        "title": "Want to Earn $2,000 in Annual Dividend Income? Invest $33,000 in These 3 Stocks. - Yahoo Finance",
+        "description": "These dividend stocks haven't been great performers over the past year, but they could be excellent investments to buy and hold for the long run.",
+        "url": "https://www.fool.com/investing/2024/02/07/want-to-earn-2000-in-annual-dividend-income-invest/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gJnv4j2DdZUe4k99GppgKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/f77574170a3e8e393ca4da8ff16a0199",
+        "publishedAt": "2024-02-07T13:00:00Z",
+        "content": "Dividend stocks can be powerful tools in helping investors battle inflation in the long run. They can provide you with a recurring source of income that (ideally) rises over time and helps build up y… [+5460 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "DC car insurance premiums soar amid auto theft, carjacking surge - Fox Business",
+        "description": "Car owners in Washington, D.C., are facing some of the highest auto insurance premiums in the country amid the surge in auto thefts and carjackings that occurred in 2023.",
+        "url": "https://www.foxbusiness.com/economy/dc-car-insurance-premiums-soar-amid-auto-theft-carjacking-surge",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/Washington-DC-Capitol-Street-Traffic.jpg?ve=1&tl=1",
+        "publishedAt": "2024-02-07T13:00:00Z",
+        "content": "Car owners in the Washington, D.C., area are seeing auto insurance premiums soar as the city grapples with a surge in carjacking and auto theft\r\n.\r\nResidents of the District of Columbia paid the sixt… [+3609 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "David Hollerith",
+        "title": "Troubled lender NYCB seeks to reassure investors after 60% stock slide, Moody's credit downgrade - Yahoo Finance",
+        "description": "New York Community Bancorp is attempting to reassure investors about its deposits, liquidity and governance following a week-long plunge in the company’s...",
+        "url": "https://finance.yahoo.com/news/troubled-lender-nycb-seeks-to-reassure-investors-after-60-stock-slide-moodys-credit-downgrade-125240216.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UY8VXwYZu8BcBNCGYkCynw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/aef22000-c5b5-11ee-aecf-4947cbc7d67f",
+        "publishedAt": "2024-02-07T12:52:40Z",
+        "content": "New York Community Bancorp (NYCB) is attempting to reassure investors about its deposits, liquidity, and governance following a week-long plunge in the companys stock and a decision by Moodys to cut … [+6829 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investor's Business Daily"
+        },
+        "author": "Investor's Business Daily",
+        "title": "Snap Stock Plunges As Q4 Revenue Growth Misses Estimates - Investor's Business Daily",
+        "description": null,
+        "url": "https://www.investors.com/news/technology/snap-stock-snap-earnings-news-q42023/",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T12:50:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "financial-times",
+          "name": "Financial Times"
+        },
+        "author": "Cheng Leng, Hudson Lockett",
+        "title": "China stock trading surges after Beijing unveils more state-led buying - Financial Times",
+        "description": "‘National team’ support likely to be behind turnover in major indices hitting highest level since August, say analysts",
+        "url": "https://www.ft.com/content/c164a9f9-39fd-4570-88ae-80d4ea79cd81",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fd844f33f-92d7-410a-8478-79353f007cfa.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+        "publishedAt": "2024-02-07T12:42:34Z",
+        "content": "Trading activity in Chinas largest listed companies has surged to a five-month high, reflecting what analysts said was a likely increase in buying by Beijings national team of state-run financial ins… [+3507 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Amelia Lucas",
+        "title": "Yum Brands disappoints as KFC, Taco Bell and Pizza Hut fall short of same-store sales expectations - CNBC",
+        "description": "Yum is the third global restaurant giant to report disappointing revenue for the last three months of 2023.",
+        "url": "https://www.cnbc.com/2024/02/07/yum-brands-yum-q4-2023-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107369745-1707243815934-gettyimages-1946046925-widak-dailylif240121_npd8H.jpeg?v=1707243905&w=1920&h=1080",
+        "publishedAt": "2024-02-07T12:00:47Z",
+        "content": "Yum Brands on Wednesday reported quarterly earnings and revenue that missed analysts' expectations as KFC, Taco Bell and Pizza Hut all reported weaker-than-expected sales.\r\nYum is the third global re… [+1803 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "Uber beats estimates as revenue and bookings see double-digit growth - CNBC",
+        "description": "Uber reported fourth-quarter results Wednesday that beat analysts' estimates for revenue and profit.",
+        "url": "https://www.cnbc.com/2024/02/07/uber-earnings-q4-2023-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107369860-1707251125220-gettyimages-1795380837-js2_0862_f0ulsemh.jpeg?v=1707251783&w=1920&h=1080",
+        "publishedAt": "2024-02-07T11:58:24Z",
+        "content": "Uber reported fourth-quarter results Wednesday that beat analysts' estimates on the top and bottom lines.\r\nShares of Uber fell more than 2% Wednesday morning.\r\nHere's how the company did:\r\n<ul><li>Ea… [+2987 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investor's Business Daily"
+        },
+        "author": "Investor's Business Daily",
+        "title": "Ford Stock Jumps As Earnings, Outlook Race Past Views - Investor's Business Daily",
+        "description": null,
+        "url": "https://www.investors.com/news/ford-earnings-q4-2023-ford-stock-toyota-stock-record-profits/",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T11:45:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Alibaba misses revenue estimates; boosts buyback by $25 billion - Yahoo Finance",
+        "description": null,
+        "url": "https://finance.yahoo.com/news/alibaba-misses-quarterly-revenue-estimates-113414694.html",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T11:34:14Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Annika Kim Constantino",
+        "title": "CVS beats estimates, but cuts full-year profit outlook on higher medical costs - CNBC",
+        "description": "The company lowered its 2024 adjusted earnings forecast to at least $8.30 per share, down from previous guidance of at least $8.50 per share.",
+        "url": "https://www.cnbc.com/2024/02/07/cvs-heath-cvs-q4-2023-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107192192-1675973995272-gettyimages-1246959729-CVS_OAK_STREET.jpeg?v=1707270582&w=1920&h=1080",
+        "publishedAt": "2024-02-07T11:31:30Z",
+        "content": "CVS Health on Wednesday reported fourth-quarter revenue and adjusted earnings that topped expectations, but the company cut its full-year profit outlook, citing higher medical costs that are dogging … [+5875 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Steve Goldstein",
+        "title": "Tom Lee has four reasons corporate earnings are better than they appear. - MarketWatch",
+        "description": "Critical information for the U.S. trading day",
+        "url": "https://www.marketwatch.com/story/its-halfway-through-earnings-season-tom-lee-has-four-reasons-results-are-better-than-they-appear-c5c1d40b",
+        "urlToImage": "https://images.mktw.net/im-04497067/social",
+        "publishedAt": "2024-02-07T11:27:00Z",
+        "content": "CNBC commentator Jim Cramer is now telling worrywarts who have parked their money in CDs or Treasurys to find some room for stocks, which to followers of the pundits oft-awry track record is surely a… [+6588 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Doc Louallen",
+        "title": "Mega Millions winning numbers for 2/6/24 drawing; $394 million jackpot - USA TODAY",
+        "description": "What were the winning numbers for the Mega Millions drawing on Tuesday, Feb. 6, 2024?",
+        "url": "https://www.usatoday.com/story/money/2024/02/06/mega-millions-winning-numbers/72500203007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/09/22/USATODAY/usatsports/mega-millions-lottery.jpg?width=1365&height=768&fit=crop&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-07T11:23:50Z",
+        "content": "The Mega Millions jackpot has climbed to $394 million for Friday's drawing after no one won the top prize on Tuesday night.\r\nThe numbers were drawn just after 11 p.m. ET on Tuesday, and we have the r… [+2532 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Julie Hyman",
+        "title": "Elon Musk's antics are weeding out Tesla's nonbelievers - Yahoo Finance",
+        "description": "Elon Musk continues to erode the Tesla brand with his controversial comments. But the antics are also weeding out those who don't believe in the CEO's...",
+        "url": "https://finance.yahoo.com/news/elon-musks-antics-are-weeding-out-teslas-nonbelievers-110024633.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/P2GC2J7_ocCVTPMWGj_s.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/2245fee0-c085-11ee-9f7d-781decc8396f",
+        "publishedAt": "2024-02-07T11:00:24Z",
+        "content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>The chart of the day\r\n</li><li>What we're watching\r\n</li><li>What we… [+2924 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Ruxandra Iordache",
+        "title": "China appoints 'Broker Butcher' Wu Qing as new chairman of securities regulator - CNBC",
+        "description": "China's cabinet on Wednesday appointed markets veteran Wu Qing as chairman of the China Securities Regulatory Commission, state media Xinhua said.",
+        "url": "https://www.cnbc.com/2024/02/07/china-appoints-markets-veteran-wu-qing-as-new-chairman-of-securities-regulator.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107359289-1705403064228-gettyimages-1792474463-vcg111464313379.jpeg?v=1707302408&w=1920&h=1080",
+        "publishedAt": "2024-02-07T10:43:32Z",
+        "content": "China's cabinet on Wednesday appointed markets veteran Wu Qing as chairman of the China Securities Regulatory Commission, state media Xinhua said, replacing Yi Huiman to navigate Beijing through the … [+2257 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Justine Calma",
+        "title": "Nine states, including California and New York, sign heat pump agreement to clean up air pollution - The Verge",
+        "description": "Nine states — from California to New York — signed a memorandum of agreement to increase heat pump sales.",
+        "url": "https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/IKBAC83EGkTKfElcxtOkv9SbE0Q=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25038045/236846_SUS_WEEK_affordable_heat_pump_AKrales_0260.jpg",
+        "publishedAt": "2024-02-07T10:00:00Z",
+        "content": "Nine states, including California and New York, sign heat pump agreement to clean up air pollution\r\nNine states, including California and New York, sign heat pump agreement to clean up air pollution\r… [+4627 chars]"
+      }
+    ]
+  },
+  "entertainment": {
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "King Charles III receives first round of cancer treatment, reunites with Prince Harry in London - CBS Mornings",
+        "description": "After undergoing his initial treatment for cancer, King Charles III was briefly visited by his younger son, Prince Harry, who made a swift journey from Calif...",
+        "url": "https://www.youtube.com/watch?v=VaVP5QAIyrA",
+        "urlToImage": "https://i.ytimg.com/vi/VaVP5QAIyrA/maxresdefault.jpg",
+        "publishedAt": "2024-02-07T13:25:23Z",
+        "content": null
+      },
+
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Alex Weprin",
+        "title": "How Vince McMahon Got TKO’d - Hollywood Reporter",
+        "description": "When a sex trafficking lawsuit aimed at the WWE founder was filed after the company inked a $5 billion deal with Netflix, executives went into damage control mode.",
+        "url": "http://www.hollywoodreporter.com/business/business-news/vince-mcmahon-wwe-tko-exit-1235817722/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/GettyImages-461453453.jpg?w=1024",
+        "publishedAt": "2024-02-07T13:06:09Z",
+        "content": "When Vince McMahon stepped into the New York Stock Exchange on Jan. 23, he was on hand to celebrate what was supposed to be a triumph for TKO Group Holdings, the company for which he was executive ch… [+8672 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Courier Journal"
+        },
+        "author": "Courier Journal",
+        "title": "Wildlife Photographer of the Year competition reveals stunning images - Courier Journal",
+        "description": null,
+        "url": "https://www.courier-journal.com/story/entertainment/arts/visual/2024/02/07/wildlife-photographer-of-the-year-competition-2023-top-choice/72505286007/",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T12:48:08Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "Ukrainian-Japanese Miss Japan pageant winner Karolina Shiino returns crown after affair comes to light - CBS News",
+        "description": "Controversial Miss Japan winner Karolina Shiino is the latest star to have her career upended by personal scandal.",
+        "url": "https://www.cbsnews.com/news/karolina-shiino-miss-japan-returns-crown-over-affair-takuma-maeda-muscle-doctor/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/07/cca1c7d3-7f4d-4715-8240-e61e40636681/thumbnail/1200x630/19dab3785c34e645814fc606544cae8c/japan-karolina-shiino-1983634653.jpg?v=09f617bc45cf30bf4fa8525d3acea178",
+        "publishedAt": "2024-02-07T12:41:05Z",
+        "content": "Tokyo — The Ukraine-born winner of the Miss Japan pageant has relinquished her crown after a report emerged of an affair she had with a married doctor. Karolina Shiino's nomination in January first s… [+2598 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Prince Harry Reunites with Father as King's Cancer Treatment Begins - The Royal Family Channel",
+        "description": "'Prince Harry Reunites with Father as King's Cancer Treatment Begins'King Charles’ cancer diagnosis has shocked the nation, with countless well-wishes sent H...",
+        "url": "https://www.youtube.com/watch?v=TqR_DD5yUf0",
+        "urlToImage": "https://i.ytimg.com/vi/TqR_DD5yUf0/maxresdefault.jpg",
+        "publishedAt": "2024-02-07T12:36:09Z",
+        "content": null
+      },
+
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "DAVID HAMILTON AP technology writer",
+        "title": "Taylor Swift is demanding this college student stop tracking her private jet - ABC News",
+        "description": "When it comes to jet tracking, Taylor Swift's lawyers can't shake it off.",
+        "url": "https://abcnews.go.com/Business/wireStory/taylor-swift-launches-legal-broadside-college-student-tracks-107014149",
+        "urlToImage": "https://i.abcnewsfe.com/a/0bf2a11f-50e3-425a-bd07-4cbb3655d81c/wirestory_c2a22089f84c9dcada4fca7ed138a399_16x9.jpg?w=1600",
+        "publishedAt": "2024-02-07T12:29:36Z",
+        "content": "SAN FRANCISCO -- When it comes to dealing with a Florida college student who uses public data and social media to track the private jets of billionaires, politicians and other celebrities, Taylor Swi… [+2581 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Page Six"
+        },
+        "author": "Francesca Bacardi",
+        "title": "Travis Kelce weighs in on speculation he'll propose to Taylor Swift at Super Bowl 2024 - Page Six",
+        "description": "The Kansas City Chiefs tight end may take home a ring from the big game — but will he be handing out a ring of his own to the “Blank Space” singer?",
+        "url": "https://pagesix.com/2024/02/07/entertainment/travis-kelce-on-rumors-hell-propose-to-taylor-swift-at-super-bowl-2024/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/02/76082885.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-02-07T11:55:36Z",
+        "content": "Travis Kelce is hoping for a ring a Super Bowl ring.\r\nIs there going to be another ring besides the Super Bowl ring if you win this thing on Sunday? a reporter asked the Kansas City Chiefs tight end … [+2265 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Scott Thompson",
+        "title": "Oklahoma honors Toby Keith, an avid Sooners fan, with heartfelt tribute before basketball game - Fox News",
+        "description": "The Oklahoma Sooners paid homage to the late Toby Keith, an avid supporter of his native state's athletics, following his death due to stomach cancer.",
+        "url": "https://www.foxnews.com/sports/oklahoma-honors-toby-keith-avid-sooners-fan-heartfelt-tribute-before-basketball-game",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Toby-Keith-2.jpg",
+        "publishedAt": "2024-02-07T11:14:00Z",
+        "content": "The Oklahoma Sooners paid tribute to a native of the state, country singer Toby Keith, who passed away Monday after a battle with stomach cancer. Keith was 62 years old. \r\nKeith was a well-known Soon… [+2436 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Associated Press",
+        "title": "From Uber Eats' 'Friends' reunion to Bud's Clydesdales, here are the buzziest Super Bowl ads so far - The Associated Press",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N1cGVyLWJvd2wtY29tbWVyY2lhbHMtMjAyNC0wOGVkZTEyY2JkNWQ3ZDZiYTg5NWUwNjdjZmM2MzkzZtIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T11:01:53Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gulte"
+        },
+        "author": "Satya B",
+        "title": "Eagle Release Trailer: Stylish & Power-Packed - Gulte",
+        "description": "https://youtu.be/kQ058KRVVr4 Eagle, the upcoming film starring Mass Maharaja Ravi Teja, is set to hit theaters on February 9th. Produced by TG Vishwa Prasad and co-produced by Vivek Kuchibotla, Eagle promises to be a Stylish Action Extravaganza. Ahead of the …",
+        "url": "https://www.gulte.com/movienews/279258/eagle-release-trailer-stylish-power-packed",
+        "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-07-at-4.06.55-PM.jpeg",
+        "publishedAt": "2024-02-07T10:58:22Z",
+        "content": "Eagle, the upcoming film starring Mass Maharaja Ravi Teja, is set to hit theaters on February 9th. Produced by TG Vishwa Prasad and co-produced by Vivek Kuchibotla, Eagle promises to be a Stylish Act… [+1235 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Timo Andres: Tiny Desk Concert - NPR Music",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=5Zw0K4SlqHQ",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T10:00:04Z",
+        "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Lauryn Overhultz",
+        "title": "Taylor Swift's presence at Super Bowl prompts Las Vegas nightlife industry to expand entertainment offerings - Fox Business",
+        "description": "Las Vegas is anticipating the arrival of Taylor Swift for Super Bowl weekend. The \"Midnights\" singer is traveling to Sin City to support Travis Kelce and the Kansas City Chiefs.",
+        "url": "https://www.foxbusiness.com/entertainment/taylor-swift-super-bowl-lviii-prompts-las-vegas-nightlife-industry-expand-entertainment-offerings",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/01/0/0/Taylor-Swift17.jpg?ve=1&tl=1",
+        "publishedAt": "2024-02-07T09:30:00Z",
+        "content": "Taylor Swift's decision to travel to Las Vegas for the Super Bowl to support her boyfriend, Travis Kelce, has changed the nightlife experience for fans.\r\nFox News Digital confirmed Swift plans on bei… [+4515 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Prince William returns to work after Kate's surgery and King Charles's cancer - BBC.com",
+        "description": "The Prince of Wales will take on some of the King's public duties following his cancer diagnosis.",
+        "url": "https://www.bbc.com/news/uk-68226013",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6796/production/_132581562_7a115b2e17564229eecc305c439f3aef233179250_0_4016_25771000x642-1.jpg",
+        "publishedAt": "2024-02-07T08:35:40Z",
+        "content": "By Sean Coughlan, royal correspondent, and Sean SeddonBBC News\r\nWatch: William seen for first time since King's cancer diagnosis\r\nThe Prince of Wales has carried out his first public duty since his w… [+2728 chars]"
+      },
+
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": "Kevin Berge",
+        "title": "WWE NXT Results: Winners, Live Grades, Reaction and Highlights After Vengeance Day - Bleacher Report",
+        "description": "WWE NXT delivered a quality night of action in Clarksville, Tennesse with Vengeance Day 2024. The young talent that delivered on that night would appear on…",
+        "url": "https://bleacherreport.com/articles/10108265-wwe-nxt-results-winners-live-grades-reaction-and-highlights-after-vengeance-day",
+        "urlToImage": "https://media.bleacherreport.com/image/upload/x_166,y_0,w_1518,h_1013,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1707256363/xldvuxqwpudexaqrpqcx.jpg",
+        "publishedAt": "2024-02-07T06:15:49Z",
+        "content": "Dijak picked up where he left off earlier in the night, battering Ilja Dragunov with punches and kicks to the face.\r\nHowever, Joe Gacy ruined it for Hard Justice, hitting him with a boxing glove to s… [+1913 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Entertainment Tonight"
+        },
+        "author": "Zach Seemayer",
+        "title": "Kelly Rowland Reacts to JAY-Z Calling Out GRAMMYs for Beyoncé Album of the Year Snubs (Exclusive) - Entertainment Tonight",
+        "description": "The singer spoke with ET at the premiere of 'Bob Marley: One Love' in Los Angeles.",
+        "url": "https://www.etonline.com/kelly-rowland-reacts-to-jay-z-calling-out-grammys-for-beyonce-album-of-the-year-snubs-exclusive",
+        "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-02/Kelly_Rowland_GettyImages-1991674326_1280.jpg?h=c673cd1c",
+        "publishedAt": "2024-02-07T06:08:30Z",
+        "content": "Kelly Rowland has nothing but love and praise for JAY-Z, and the message he shared during his time on stage at the GRAMMYs on Sunday.\r\nRowland walked the red carpet at the premiere of Bob Marley: One… [+2451 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cageside Seats"
+        },
+        "author": "Randall Ortman",
+        "title": "Rumor Roundup: Signs at Raw, Cody Rhodes' warning, Rocky Sucks chants, more! - Cageside Seats",
+        "description": "The latest rumors, including if WWE handed out signs at Raw, Cody Rhodes warning higher ups, reaction to the “Rocky sucks” chants, and more!",
+        "url": "https://www.cagesideseats.com/2024/2/7/24064284/rumor-roundup-feb-7-2024-signs-at-raw-cody-rhodes-warning-rocky-sucks-chants-wwe-wrestlemania-40",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/3xTNbmUZVAIiAZqdVe_NWk9y61M=/0x13:1200x641/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25269522/02_RAW_02052024CM_40709__5135d4fc4fd691bc0f7bd438891dc43a.jpg",
+        "publishedAt": "2024-02-07T06:00:00Z",
+        "content": "Speculating on the rumors surrounding pro wrestling is a favored pastime of many fans, perhaps second only to actually watching the matches. In this daily column, we take a look at the latest rumors … [+1757 chars]"
+      }
+    ]
+  },
+  "health": {
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Frances Vinall",
+        "title": "Vending machines can get STI tests to more people, U.K. study suggests - The Washington Post",
+        "description": "A British study seeking to overcome barriers to testing for sexually transmitted diseases found that more than half of users were taking their first such test.",
+        "url": "https://www.washingtonpost.com/health/2024/02/07/vending-machine-sti-testing-uk/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JIBZXZHWTKW7AQFGQYWEGHUC3A.JPG&w=1440",
+        "publishedAt": "2024-02-07T12:15:57Z",
+        "content": "In at least two British cities, certain vending machines offer up not snacks and sodas but a more unusual item: free self-test kits for sexually transmitted diseases.\r\nThe initiative aims to overcome… [+4304 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Angelica Stabile",
+        "title": "Party glow sticks to be tested by US Navy to detect biothreats: 'Highly sensitive' - Fox News",
+        "description": "University of Houston researchers Drs. Binh Vu, Richard Willson and Katerina Kourentzi told Fox News Digital how their new technology uses glow sticks to test for biothreats.",
+        "url": "https://www.foxnews.com/lifestyle/party-glow-sticks-tested-us-navy-detect-biothreats-highly-sensitive",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/iStock-949383448.jpg",
+        "publishedAt": "2024-02-07T12:04:00Z",
+        "content": "A common party favor may be turning into a handy U.S. military tool.\r\nResearchers at the University of Houston have discovered how glow sticks can be used in the testing and detection of biothreats.\r… [+6389 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Vox"
+        },
+        "author": "Benji Jones",
+        "title": "The Earth is getting greener. Literally. - Vox.com",
+        "description": "Air pollution, farming, and tree planting is changing the planet’s color. Is that good for climate change?",
+        "url": "https://www.vox.com/down-to-earth/2024/2/7/24057308/earth-global-greening-climate-change-carbon",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/aFWe5daedmqN7x79leqLf9PIh-A=/0x75:1920x1080/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25271100/Vox_PaigeVickers_Benji.jpeg",
+        "publishedAt": "2024-02-07T11:00:00Z",
+        "content": "Maybe youve heard: Earth, our planet, is not doing great. Tropical forests are getting cut down. Parking lots are replacing bird-filled grasslands. Climate change is fueling forest-razing wildfires. … [+8871 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HuffPost"
+        },
+        "author": "Jillian Wilson",
+        "title": "1 Subtle Sign Of A Heart Attack That Many People Often Ignore - HuffPost",
+        "description": "Experts say this cardiac symptom is most common in women.",
+        "url": "https://www.huffpost.com/entry/heart-attack-nausea-symptom_l_65c10f9de4b0dbc806ad8a4b",
+        "urlToImage": "https://img.huffingtonpost.com/asset/65c14e122300003200808002.jpeg?ops=1200_630",
+        "publishedAt": "2024-02-07T10:45:49Z",
+        "content": "Nausea is not normally associated with heart attacks, but doctors say it can be a sign.\r\nIn a recent segment on the Today show, Chantrise Holliman, a mother, wife and heart health educator based in G… [+5913 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Inc."
+        },
+        "author": "Marcel Schwantes",
+        "title": "Neuroscience Says 5 Ridiculously Simple Habits Will Help Sharpen Your Memory and Make You Smarter - Inc.",
+        "description": "Neuroscience experts describe the human brain as 'plastic' and malleable. Here are a few simple habits to help it.",
+        "url": "https://www.inc.com/marcel-schwantes/neuroscience-says-5-ridiculously-simple-habits-will-help-sharpen-your-memory-make-you-smarter.html",
+        "urlToImage": "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1164763802_537109_hywgee.jpg",
+        "publishedAt": "2024-02-07T10:09:37Z",
+        "content": "The human brain is a wonder of nature, capable of producing an unimaginable amount of concepts, thoughts, and ideas. This feat is made possible by the phenomenon of neuroplasticity, which means that … [+2903 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Katia Hetter",
+        "title": "What women can do to reduce their risk from heart disease - CNN",
+        "description": "Heart disease is the leading cause of death for women, but the different symptoms in women means it can be overlooked. Here are some ways to reduce the risks.",
+        "url": "https://www.cnn.com/2024/02/07/health/women-improve-heart-health-wellness/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1280549729.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-02-07T10:00:00Z",
+        "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nWomen are more likely to hav… [+7175 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Melissa Rudy",
+        "title": "6 surprisingly simple ways to keep yourself healthy (hint: sleep is involved) - Fox News",
+        "description": "To get a more comprehensive outlook of health, Dr. Barbara Bawer, a primary care physician at The Ohio State University Wexner Medical Center. is encouraging people to monitor these 6 basic benchmarks.",
+        "url": "https://www.foxnews.com/health/6-surprisingly-simple-ways-keep-yourself-healthy-hint-sleep-involved",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/01-basicscheckup.jpg",
+        "publishedAt": "2024-02-07T10:00:00Z",
+        "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+9487 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WION"
+        },
+        "author": "WION Web Team",
+        "title": "Frequent nose-picking leading cause of progressive dementia: Study - WION",
+        "description": "Frequent nose-picking leading cause of progressive dementia: Study",
+        "url": "https://www.wionews.com/science/frequently-nose-picking-leading-cause-of-progressive-dementia-study-687765",
+        "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/02/07/410548-file-20220629-20-s0d62b.jpg",
+        "publishedAt": "2024-02-07T07:25:43Z",
+        "content": "People who frequently pick their noses are highly likely to develop Alzheimers disease, a new study has revealed. The study was conducted by reviewing dozens of published research papers. Researchers… [+2169 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "David Nield",
+        "title": "There's a Curious Link Between Depression And Body Temperature, Large Study Finds - ScienceAlert",
+        "description": "To better treat and prevent depression, we need to understand more about the brains and bodies in which it occurs.",
+        "url": "https://www.sciencealert.com/theres-a-curious-link-between-depression-and-body-temperature-large-study-finds",
+        "urlToImage": "https://www.sciencealert.com/images/2023/10/WomanHotInBed.jpg",
+        "publishedAt": "2024-02-07T05:11:16Z",
+        "content": "To better treat and prevent depression, we need to understand more about the brains and bodies in which it occurs.\r\nCuriously, a handful of studies have identified links between depressive symptoms a… [+2842 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "David Landsel",
+        "title": "Want to cut dangerous belly fat? Eat more of these foods and watch the pounds melt away - New York Post ",
+        "description": "Don’t stop eating — just eat the right stuff.",
+        "url": "https://nypost.com/2024/02/06/lifestyle/cut-belly-fat-by-eating-these-healthy-foods-experts-say/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/newspress-collage-4cbad4i3o-1707276915481.jpg?quality=75&strip=all&1707259212&w=1024",
+        "publishedAt": "2024-02-07T04:27:00Z",
+        "content": "Packing it on around the middle as we age can significantly heighten risk for disease, experts say. \r\nBut the visible bulge many of us are battling, made up of subcutaneous fat, isn’t the major culpr… [+5000 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HuffPost"
+        },
+        "author": "Jillian Wilson",
+        "title": "The 5 Worst Foods for Cholesterol, According to Experts - BuzzFeed",
+        "description": "Experts say certain foods can impact your cholesterol levels, putting you at risk for adverse events.",
+        "url": "https://www.huffpost.com/entry/high-cholesterol-worst-foods_l_65b9488ae4b05c8779f6675e",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-02/5/22/enhanced/7a2ad55505bf/original-1623-1707171561-3.jpg?crop=2996:1568;3,72%26downsize=1250:*",
+        "publishedAt": "2024-02-07T04:16:03Z",
+        "content": "I would be happy if I could tell you that it all depends on the food we eat, Avenatti said. But, unfortunately, that is really not the case ... the food we eat contains cholesterol, but the majority … [+2652 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Press Herald"
+        },
+        "author": "Dennis Hoey",
+        "title": "Westbrook food service worker contracts hepatitis A - Press Herald",
+        "description": "The Maine CDC urges staff and patrons who dined at Legends Rest Taproom or Paper City Barbecue in the past 3 weeks to contact their health care provider.",
+        "url": "https://www.pressherald.com/2024/02/06/westbrook-food-service-worker-contracts-hepatitis-a/",
+        "urlToImage": "https://w2pcms.com/wp-content/uploads/sites/10/2020/06/DSC_0554.jpg?w=1024",
+        "publishedAt": "2024-02-07T03:52:31Z",
+        "content": "Westbrook food service worker contracts hepatitis A\r\nThe Maine CDC urges staff and patrons who dined at Legends Rest Taproom or Paper City Barbecue in the past 3 weeks to contact their health care pr… [+2768 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cdc.gov"
+        },
+        "author": "CDC",
+        "title": "CDC Laboratory Recommendations for Syphilis Testing, United States, 2024 | MMWR - CDC",
+        "description": "This report provides new CDC recommendations for tests that can support a diagnosis of syphilis.",
+        "url": "https://www.cdc.gov/mmwr/volumes/73/rr/rr7301a1.htm",
+        "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/rr/social-media/rr7301a1_SyphilisLabTesting_IMAGE_8JFEBRUARY24_1200x675.jpg?_=35600",
+        "publishedAt": "2024-02-07T03:27:09Z",
+        "content": "Nontreponemal (Lipoidal Antigen) Tests\r\nNontreponemal (lipoidal antigen) tests typically have been used as a screening test for syphilis, as a diagnostic test when patients have signs or symptoms sug… [+82537 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Adriana Diaz",
+        "title": "Women with polycystic ovary syndrome may be at higher risk for suicide: study - New York Post ",
+        "description": "“This suggests the importance of routine monitoring of mental health and suicide risk in persons diagnosed with PCOS,” the study authors wrote.",
+        "url": "https://nypost.com/2024/02/06/lifestyle/polycystic-ovary-syndrome-sufferers-face-greater-suicide-risk-study/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/women-polycystic-ovary-syndrome-higher-76060708.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-02-07T01:53:00Z",
+        "content": "Women with polycystic ovary syndrome (PCOS) are eight times more likely to attempt suicide than women without the common hormonal condition, a shocking new study has found.\r\nAn estimated 5 million to… [+3459 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "Lauren Irwin",
+        "title": "Newsom signs bill making HIV prevention meds available without prescription - The Hill",
+        "description": "California Gov. Gavin Newsom (D) signed a bill Tuesday that makes medication preventing HIV available to residents without a prescription. The bill, S.B. 339, authorizes pharmacists to furnish preexposure prophylaxis, commonly called PrEP, a drug that helps p…",
+        "url": "https://thehill.com/homenews/state-watch/4452273-newsom-signs-bill-making-hiv-prevention-meds-available-without-prescription/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/64c1ddbe9a1df1.31284886.jpeg?w=1280",
+        "publishedAt": "2024-02-07T01:08:00Z",
+        "content": "Skip to content\r\nCalifornia Gov. Gavin Newsom (D) signed a bill Tuesday that makes medication preventing HIV available to residents without a prescription.\r\nThe bill, S.B. 339, authorizes pharmacists… [+1585 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Meghan Schiller",
+        "title": "Dentists say it is time to rethink pain management - CBS Pittsburgh",
+        "description": "Inside Salk Hall at the University of Pittsburgh, future dentists are learning how to manage your tooth pain.",
+        "url": "https://www.cbsnews.com/pittsburgh/news/dentists-rethink-pain-management-american-dental-association/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2017/02/16/3dce79ab-2366-4e9d-8331-3f5ccaf9e6d2/thumbnail/1200x630/c1acea37cf52c06fe1371de7d28d1772/dentist-generic.jpg?v=09f617bc45cf30bf4fa8525d3acea178",
+        "publishedAt": "2024-02-07T00:53:00Z",
+        "content": "PITTSBURGH (KDKA) — Leading dentists say it is time to rethink pain management. \r\nLike most areas in life, things are changing, and we need to adjust to them. That's why future dentists being trained… [+2080 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News 5 Cleveland"
+        },
+        "author": "Courtney Shaw, Catherine Ross",
+        "title": "School in Wadsworth closed Tuesday due to illness in students, staff - News 5 Cleveland WEWS",
+        "description": "Northside Christian Academy in Wadsworth was closed on Tuesday due to the amount of students and staff who are sick.",
+        "url": "https://www.news5cleveland.com/news/local-news/oh-medina/school-in-wadsworth-closed-tuesday-due-to-illness-in-students-staff",
+        "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/cba4661/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F9e%2Fe4%2F2bece00c492490be451989c7a1f5%2F02-06-24-schools-closure-illness.jpg",
+        "publishedAt": "2024-02-07T00:10:27Z",
+        "content": "Northside Christian Academy in Wadsworth was closed on Tuesday due to illness. \r\nThe school said multiple students and staff have called out. \r\nAccording to the school, a cleaning crew will be disinf… [+2916 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WSAW"
+        },
+        "author": "Hailey Clevenger",
+        "title": "Wonder why you have the sniffles? Well, it’s not because of allergy season - WSAW",
+        "description": "Do you feel like you’ve been sneezing all the time? It’s not allergy season just because the weather has been warmer, so what else could it be?",
+        "url": "https://www.wsaw.com/2024/02/06/wonder-why-you-have-sniffles-well-its-not-because-allergy-season/",
+        "urlToImage": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/v2/66NDJANZSRHNTCJNV5UVHP3EKI.png?auth=a27c3e1d896a826b0a6bf5b513b50c8765de9296f5b1e819135edd452f04942f&width=1200&height=600&smart=true",
+        "publishedAt": "2024-02-06T23:42:00Z",
+        "content": "WAUSAU, Wis. (WSAW) - Do you feel like youve been sneezing all the time? Its not allergy season just because the weather has been warmer, so what else could it be? \r\nYoull know its allergy season whe… [+1553 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Eduardo Cuevas",
+        "title": "Ditch that plastic container, study says. Plastics linked to thousands of preterm births. - USA TODAY",
+        "description": "Babies who are exposed to the phthalates have medical bills that cost billions over their lifetimes in the U.S., researchers said.",
+        "url": "https://www.usatoday.com/story/news/health/2024/02/06/plastics-linked-to-preterm-birth/72492632007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2022/08/15/USATODAY/usatsports/imageForEntry11-5Ql.jpg?width=1365&height=768&fit=crop&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-06T23:30:29Z",
+        "content": "Chemicals commonly used for plastic in food containers, lotion and other products are linked to tens of thousands of preterm births in the U.S. each year, according to a new study.\r\nThose babies medi… [+5865 chars]"
+      }
+    ]
+  },
+  "science": {
+    "status": "ok",
+    "totalResults": 66,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "Asteroid Impact Near Berlin Reveals Rare Aubrite Treasures - SciTechDaily",
+        "description": "Jenniskens’ collaborators at the Museum für Naturkunde officially announced that the first examinations of one of these pieces with an electron beam microprobe prove the typical mineralogy and chemical composition of an achondrite of the aubrite type. The off…",
+        "url": "https://scitechdaily.com/asteroid-impact-near-berlin-reveals-rare-aubrite-treasures/",
+        "urlToImage": "https://scitechdaily.com/images/Aubrite-Meteorite-From-Asteroid-2024-BX1.jpg",
+        "publishedAt": "2024-02-07T13:38:17Z",
+        "content": "Aubrite meteorite from asteroid 2024 BX1, photographed at the Museum für Naturkunde Berlin by Laura Kranich, a Freie Universität MSc student and member of the Arbeitskreis Meteore, who participated i… [+4156 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Leah Sarnoff",
+        "title": "How NASA’s PACE mission hopes to examine oceanic and atmospheric mysteries - ABC News",
+        "description": "NASA's PACE spacecraft is set to launch early Thursday morning from Florida.",
+        "url": "https://abcnews.go.com/US/nasas-pace-mission-hopes-examine-oceanic-atmospheric-mysteries/story?id=106986291",
+        "urlToImage": "https://i.abcnewsfe.com/a/726117ce-016d-4b32-b03e-3db8585acc71/pace-nasa-mission-ht-lv-240206_1707255163440_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-02-07T12:21:57Z",
+        "content": "While NASA is known for observing and researching outer space, the agency is also using a spacecraft to explore a frontier here on Earth -- the world's oceanic and atmospheric mysteries.\r\nNASA's PACE… [+2976 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Mansfield News Journal"
+        },
+        "author": "Zach Tuggle",
+        "title": "April 8 total solar eclipse will bring millions of visitors to Ohio - Mansfield News Journal",
+        "description": "Millions of visitors are expected to invade Ohio two months from now for front-seat views of the April 8 total solar eclipse.",
+        "url": "https://www.mansfieldnewsjournal.com/story/news/2024/02/07/april-8-total-solar-eclipse-ohio-millions-visitors-prepare-now/72494468007/",
+        "urlToImage": "https://www.mansfieldnewsjournal.com/gcdn/-mm-/c24f7b1e8df85d00cfd7c20d499b7a0b23c3b5cf/c=0-151-1632-1073/local/-/media/2017/08/21/OHGroup/Marion/636389207339820888-BUC-eclipse-1.jpg?width=1632&height=922&fit=crop&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-07T10:31:00Z",
+        "content": "Millions of visitors are expected to invade Ohio two months from now for front-seat views of the April 8 total solar eclipse.\r\nThe extra people could easily cause traffic jams, overload cellphone tow… [+5752 chars]"
+      },
+      {
+        "source": {
+          "id": "mashable",
+          "name": "Mashable"
+        },
+        "author": "Mark Kaufman",
+        "title": "NASA found a super-Earth. It's in a tantalizing place. - Mashable",
+        "description": "Scientists are investigating this curious new world.",
+        "url": "https://mashable.com/article/nasa-super-earth-planet-discovery",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/05lhhJigYhhSV5JRXLxmCM0/hero-image.fill.size_1200x675.v1707234552.png",
+        "publishedAt": "2024-02-07T10:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "NASA Tracks the Brightest Cosmic Event Ever Recorded – “This Thing's Crazy!” - SciTechDaily",
+        "description": "Astronomers witnessed the BOAT, the brightest cosmic event ever recorded, demonstrating the power of Time-Domain and Multimessenger Astronomy. This event and others like it offer insights into the universe's dynamic processes and the role of collaboration in …",
+        "url": "https://scitechdaily.com/nasa-tracks-the-brightest-cosmic-event-ever-recorded-this-things-crazy/",
+        "urlToImage": "https://scitechdaily.com/images/Long-Gamma-Ray-Burst-scaled.jpg",
+        "publishedAt": "2024-02-07T09:25:11Z",
+        "content": "Astronomers think a long GRB (gamma-ray burst) arises from a massive, rapidly rotating star when its core runs out of fuel and collapses, forming a black hole in the star’s center. In this artist’s c… [+11666 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "The Mysterious Disappearance of an Underwater Explorer in Antarctica - SciTechDaily",
+        "description": "The unmanned underwater vehicle Ran has gone missing under a glacier in Antarctica. The vehicle, owned by the University of Gothenburg, is one of three similar in the whole world that is used for research and has contributed to important knowledge about the s…",
+        "url": "https://scitechdaily.com/the-mysterious-disappearance-of-an-underwater-explorer-in-antarctica/",
+        "urlToImage": "https://scitechdaily.com/images/AUV-Ran.jpg",
+        "publishedAt": "2024-02-07T07:59:21Z",
+        "content": "The AUV is programmed in advance and then sent out on long journeys under the glaciers of Antarctica. Credit: Anna Wåhlin\r\nThe unmanned underwater vehicle Ran has gone missing under a glacier in Anta… [+4377 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBC Southern California"
+        },
+        "author": "Helen Jeong",
+        "title": "JPL plans to lay off hundreds of employees due to lack of funding - NBC Southern California",
+        "description": "NASA’s Jet Propulsion Laboratory is poised to lay off 530 employees along with 40 contractors as the federally funded research and development center has yet to secure funding for the 2024 fiscal year, according to an internal memo. “While we still do not hav…",
+        "url": "http://www.nbclosangeles.com/news/local/jpl-plans-to-lay-off-hundreds-of-employees-due-to-lack-of-funding/3332447/",
+        "urlToImage": "https://media.nbclosangeles.com/2024/02/GettyImages-925624260-1.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2024-02-07T07:27:07Z",
+        "content": "NASAs Jet Propulsion Laboratory is poised to lay off 530 employees along with 40 contractors as the federally funded research and development center has yet to secure funding for the 2024 fiscal year… [+1147 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "The Conversation",
+        "title": "Bizarre Prehistoric Predator Fish Breathed Air, Had Fangs And Four 'Limbs' - ScienceAlert",
+        "description": "More than 380 million years ago, a sleek, air-breathing predatory fish patrolled the rivers of central Australia.",
+        "url": "https://www.sciencealert.com/bizarre-prehistoric-predator-fish-breathed-air-had-fangs-and-four-limbs",
+        "urlToImage": "https://www.sciencealert.com/images/2024/02/CloseUpOfAustralianPredatorFish.jpg",
+        "publishedAt": "2024-02-07T06:22:12Z",
+        "content": "More than 380 million years ago, a sleek, air-breathing predatory fish patrolled the rivers of central Australia. Today, the sediments of those rivers are outcrops of red sandstone in the remote outb… [+5963 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "Michelle Starr",
+        "title": "JWST Imaged Two Apparent Alien Worlds Still Circling The Bodies of Their Dead Stars - ScienceAlert",
+        "description": "No star dies quietly.",
+        "url": "https://www.sciencealert.com/jwst-imaged-two-apparent-alien-worlds-still-circling-the-bodies-of-their-dead-stars",
+        "urlToImage": "https://www.sciencealert.com/images/2024/02/white-dwarf-planet-art.jpg",
+        "publishedAt": "2024-02-07T02:51:37Z",
+        "content": "No star dies quietly. Even the most peaceful of stellar deaths involve quakes, eruptions, and the shedding of huge amounts of mass into surrounding space.\r\nThis will be the eventual fate of the Sun, … [+4316 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Spaceflight Now"
+        },
+        "author": null,
+        "title": "Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base – Spaceflight Now - Spaceflight Now",
+        "description": "SpaceX scrubbed the launch due to unfavorable weather on the West Coast. The next launch opportunity is Wednesday, Feb. 7, at 5:17 p.m. PST (8:17 p.m. EST, 0117 UTC).",
+        "url": "https://spaceflightnow.com/2024/02/07/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/",
+        "urlToImage": "http://spaceflightnow.com/wp-content/uploads/2024/01/20240118-Starlink-File-Photo-Feature-Image.jpg",
+        "publishedAt": "2024-02-07T02:04:53Z",
+        "content": "File: A Falcon 9 rocket stands ready to launch a Starlink mission. Image: SpaceX\r\nUpdate 12:45 a.m. EST: SpaceX scrubs the Starlink mission Tuesday night.\r\nPoor weather proved insurmountable for the … [+1642 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Upworthy"
+        },
+        "author": "Annie  Reneau, Upworthy Staff",
+        "title": "Cat owner put a first person camera on their collar and accidentally filled the world with delight - Upworthy",
+        "description": "Mr. Kitters' point of view is highly entertaining.",
+        "url": "https://www.upworthy.com/mr-kitters-cat-pov-with-camera-on-collar-rp3",
+        "urlToImage": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zNDExOTE2OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MjE5MzI5N30.vUb0mDYgsVgr34dz0mFoM0dxeG-TVmmKz1XdhjHrkpo/img.jpg?width=1200&height=600&coordinates=0%2C75%2C0%2C75",
+        "publishedAt": "2024-02-07T01:55:33Z",
+        "content": "Was it that they didn't really need any help, this person going through a major life crisis? Unlikely. As sincere as our offer may have been, the problem may be that we didn't really offer them what … [+7107 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Alyssa Guzman",
+        "title": "Heart-stopping photos of the first untethered spacewalk mark 40th anniversary of daring feat - New York Post ",
+        "description": "Bruce McCandless II was the first man to take an nerve-wracking romp through space without any tether to a spacecraft on Feb. 7, 1984.",
+        "url": "https://nypost.com/2024/02/06/news/heart-stopping-photos-of-the-first-untethered-spacewalk-mark-40th-anniversary-of-daring-feat/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/mmu-see-swns-swnaspacewalk-nerve-76059072.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-02-07T00:49:00Z",
+        "content": "Heart-stopping photos of the first untethered spacewalk mark the 40th anniversary of the daring feat. \r\nBruce McCandless II was the first man to take an nerve-wracking romp through space without any … [+3205 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Ellyn Lapointe",
+        "title": "NASA Just Dropped Stunning Close-Up Pics of Volcanic Eruptions on Jupiter's Moon Io - ScienceAlert",
+        "description": "NASA's Juno spacecraft flew extremely close to Jupiter's eruptive moon Io and took some stunning photos of the world's volcanic activity in action.",
+        "url": "https://www.businessinsider.com/nasa-close-up-photos-show-volcanoes-erupt-on-jupiters-moon-2024-2",
+        "urlToImage": "https://i.insider.com/65c2516c43bb77284ba3f7dd?width=1200&format=jpeg",
+        "publishedAt": "2024-02-07T00:34:43Z",
+        "content": "NASA's Juno spacecraft snapped detailed images of the most volcanically active world in our solar system on Saturday. During this close fly-by, the spacecraft spotted plumes of volcanic activity erup… [+2255 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Live Science"
+        },
+        "author": "Jacklin Kwan",
+        "title": "Dinosaur-era frog found fossilized with belly full of eggs and was likely killed during mating - Livescience.com",
+        "description": "Gravid frog found in 100 million-year-old deposits in China is oldest fossil of its kind ever discovered.",
+        "url": "https://www.livescience.com/animals/frogs/dinosaur-era-frog-found-fossilized-with-belly-full-of-eggs-and-was-likely-killed-during-mating",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/sgY6F9YAQjp43YXSN28nRn-1200-80.jpg",
+        "publishedAt": "2024-02-07T00:01:54Z",
+        "content": "A fossilized frog that lived alongside the dinosaurs 100 million years ago has been discovered with a belly full of eggs — the oldest such frog ever found, scientists have announced.\r\nResearchers bel… [+3228 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NASASpaceflight.com"
+        },
+        "author": "Aaron McCrea",
+        "title": "Launch Roundup: SpaceX to launch lunar lander on Falcon 9's 300th mission; JAXA looks to reach orbit with H3 rocket - NASASpaceFlight.com - NASASpaceflight.com",
+        "description": "On the week of the sixth anniversary of the first flight of Falcon Heavy, SpaceX…",
+        "url": "https://www.nasaspaceflight.com/2024/02/launch-roundup-020624/",
+        "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2024/02/im1_fairing.jpg",
+        "publishedAt": "2024-02-06T23:17:03Z",
+        "content": "3On the week of the sixth anniversary of the first flight of Falcon Heavy, SpaceX looks to launch four separate Falcon 9 missions. Meanwhile, JAXA is preparing for the second flight of the H3 rocket … [+7882 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Sharmila Kuthunur",
+        "title": "Lunar astronauts could potentially make hummus with moon-grown chickpeas - Space.com",
+        "description": "An interesting development in the field of space cuisine, scientists managed to grow chickpeas in engineered moondust.",
+        "url": "https://www.space.com/the-universe/moon/lunar-astronauts-could-potentially-make-hummus-with-moon-grown-chickpeas",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/rRDfPgYx5E6cWioSNrhVx9-1200-80.jpg",
+        "publishedAt": "2024-02-06T23:00:01Z",
+        "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Phys.Org"
+        },
+        "author": "Science X",
+        "title": "Apex predators not a quick fix for restoring ecosystems, 20-year study finds - Phys.org",
+        "description": "A Colorado State University experiment spanning more than two decades has found that removal of apex predators from an ecosystem can create lasting changes that are not reversed after they return—at least, not for a very long time.",
+        "url": "https://phys.org/news/2024-02-apex-predators-quick-ecosystems-year.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/apex-predators-not-a-q.jpg",
+        "publishedAt": "2024-02-06T22:17:05Z",
+        "content": "A Colorado State University experiment spanning more than two decades has found that removal of apex predators from an ecosystem can create lasting changes that are not reversed after they returnat l… [+8019 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Neurosciencenews.com"
+        },
+        "author": "Neuroscience News",
+        "title": "How Odors Influence Brain's Decision Making Mechanism - Neuroscience News",
+        "description": "Researchers have uncovered a novel function of the hippocampus in decision making, showing that specific brain cells, known as 'time cells,' are stimulated by odors to facilitate rapid 'go, no-go' decisions.",
+        "url": "https://neurosciencenews.com/odor-hippocampus-decision-making-25568/",
+        "urlToImage": "https://neurosciencenews.com/files/2024/02/odor-decision-making-neurosicnece.jpg",
+        "publishedAt": "2024-02-06T22:15:50Z",
+        "content": "Summary: Researchers have uncovered a novel function of the hippocampus in decision making, showing that specific brain cells, known as ‘time cells,’ are stimulated by odors to facilitate rapid ‘go, … [+5407 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Stephen Clark",
+        "title": "Humanity's most distant space probe jeopardized by computer glitch - Ars Technica",
+        "description": "\"It would be the the biggest miracle if we get it back. We certainly haven't given up.\"",
+        "url": "https://arstechnica.com/space/2024/02/humanitys-most-distant-space-probe-jeopardized-by-computer-glitch/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-164430704-760x380.jpg",
+        "publishedAt": "2024-02-06T22:04:04Z",
+        "content": "Enlarge/ An annotated image showing the various parts and instruments of NASA's Voyager spacecraft design.\r\n21\r\nVoyager 1 is still alive out there, barreling into the cosmos more than 15 billion mile… [+4229 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Isaac Schultz",
+        "title": "Something Is Messing With a Ring System Between Saturn and Uranus - Gizmodo",
+        "description": "The smallest rings in the solar system, belonging to the centaur Chariklo, may be perturbed by a moon that's yet to be discovered.",
+        "url": "https://gizmodo.com/something-is-messing-with-a-ring-system-between-saturn-1851231330",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3e301b4593ddcdb433b23bbdbc1c46f0.png",
+        "publishedAt": "2024-02-06T22:00:00Z",
+        "content": "A previously unknown satellite may be shaping the rings of Chariklo, a petite body that orbits the Sun between the orbits of Saturn and Uranus, according to a team of astronomers that recently simula… [+2341 chars]"
+      }
+    ]
+  },
+  "sports": {
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "247Sports"
+        },
+        "author": "247Sports",
+        "title": "National Signing Day Buzz: Latest on 5-star Bussey, Top247 WR Bethel-Roman, Nebraska and more - 247Sports",
+        "description": null,
+        "url": "https://247sports.com/article/national-signing-day-terry-bussey-ashton-bethel-roman-nebraska-texas-am-lsu-georgia-226796655/",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T13:54:09Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Astros, All-Star José Altuve agree to 5-year extension reportedly valued at $125M - Yahoo Sports",
+        "description": null,
+        "url": "https://sports.yahoo.com/jose-altuve-astros-agree-to-5-year-extension-reportedly-valued-at-125m-233302906.html",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T13:27:50Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Inside the Hall"
+        },
+        "author": "Kevin Vera",
+        "title": "IU's biggest comeback in over 25 years yields a road win against Ohio State - Inside the Hall",
+        "description": "COLUMBUS, Ohio – It was an uninspired effort for Indiana for the first 20 minutes against Ohio State.",
+        "url": "https://www.insidethehall.com/2024/02/07/ius-biggest-comeback-in-over-25-years-yields-a-road-win-against-ohio-state/",
+        "urlToImage": "https://www.insidethehall.com/wp-content/uploads/2024/02/02062024e.jpg",
+        "publishedAt": "2024-02-07T13:22:46Z",
+        "content": "COLUMBUS, Ohio It was an uninspired effort for Indiana for the first 20 minutes against Ohio State.\r\nThe group looked worn down and found itself in a 13-point deficit in an uninspiring first half. Th… [+4180 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "ESPN, Fox and Warner in US sports streaming tie-up - BBC.com",
+        "description": "They own a range of sports rights including FIFA World Cup, NBA, Formula 1 and NFL.",
+        "url": "https://www.bbc.com/news/business-68224393",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/31F3/production/_132578721_gettyimages-1964257571.jpg",
+        "publishedAt": "2024-02-07T12:38:54Z",
+        "content": "By Mariko OiBusiness reporter\r\nKansas City Chiefs players Patrick Mahomes and Travis Kelce\r\nThree US media giants have announced a new sports streaming platform to be launched in autumn.\r\nWalt Disney… [+1739 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Michael David Smith",
+        "title": "Patrick Mahomes thinks Commanders got a good one in Kliff Kingsbury - NBC Sports",
+        "description": "New Commanders offensive coordinator Kliff Kingsbury was Patrick Mahomes' coach at Texas Tech, and Mahomes still speaks highly of his college coach.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-thinks-commanders-got-a-good-one-in-kliff-kingsbury",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/0528acf/2147483647/strip/true/crop/2000x1125+0+152/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2F38%2F8a5222894cb194613b126014ff0c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1198715133",
+        "publishedAt": "2024-02-07T12:07:33Z",
+        "content": "New Commanders offensive coordinator Kliff Kingsbury was Patrick Mahomes coach at Texas Tech, and Mahomes still speaks highly of his college coach.\r\nIts someone whos taught me a ton, Mahomes said, vi… [+1021 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "ESPN staff",
+        "title": "Super Bowl 2024 picks: Experts predict 49ers-Chiefs score, MVP - ESPN",
+        "description": "We asked our NFL writers, analysts and reporters to make Super Bowl LVIII predictions. Which team do they think will win?",
+        "url": "https://www.espn.com/nfl/story/_/id/39464471/super-bowl-2024-predictions-experts-pick-49ers-chiefs-score-mvp",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0206%2Fr1287601_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-02-07T11:30:00Z",
+        "content": "Only one game remains in the 2023 NFL season. The San Francisco 49ers will face off against the reigning Super Bowl champion Kansas City Chiefs Sunday at Allegiant Stadium in Las Vegas for Super Bowl… [+5951 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Riggo's Rag"
+        },
+        "author": "Dean Jones",
+        "title": "Commanders news: Caleb Williams, Dan Quinn, Ron Rivera and Austin Ekeler - Riggo's Rag",
+        "description": "Which Washington Commanders news stories are hitting the headlines as offseason speculation around potential additions to the franchise continues?",
+        "url": "https://riggosrag.com/posts/commanders-news-caleb-williams-dan-quinn-ron-rivera-austin-ekeler",
+        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2000,h_1125,x_834,y_100/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/61/01hp1a6na2djs70tjhe9.jpg",
+        "publishedAt": "2024-02-07T11:00:18Z",
+        "content": "There is no time for Dan Quinn and the Washington Commanders to rest on their laurels after leaving a good impression over recent days. Pre-draft assessments, contract decisions regarding current pla… [+1489 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Athletic"
+        },
+        "author": "Sam Vecenie",
+        "title": "NBA trade board 2024: Everything to know about 50 players on the market - The Athletic",
+        "description": "As we wind down to the Feb. 8 3 p.m. ET NBA trade deadline, here's a list of every key player who could be moved. This will be updated.",
+        "url": "https://theathletic.com/5254834/2024/02/07/nba-trade-board-2024-deadline-rumors/",
+        "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/02/06110259/0206_NBA-Trade-Board-Version-3.0-copy.png",
+        "publishedAt": "2024-02-07T10:01:39Z",
+        "content": "Its finally here: NBA Trade Deadline week. Pencils go down after Thursday.\r\nThe first dominos fell early this year with the New York Knicks and Toronto Raptors setting aside their ongoing litigation … [+59972 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Motorsport.com"
+        },
+        "author": "Jonathan Noble",
+        "title": "What Sauber sees in its 'inside-out, back-to-front' pull-rod F1 suspension - Motorsport.com",
+        "description": "Mechanical compromises forced by a Red Bull-style pull-rod front suspension have not stopped Sauber being convinced it is “absolutely” the right thing for its new Formula 1 car.",
+        "url": "https://www.motorsport.com/f1/news/what-sauber-sees-pull-rod-f1-suspension/10573017/",
+        "urlToImage": "https://cdn-6.motorsport.com/images/amp/0ZRQvpL0/s6/sauber-c44-pull-rod-suspension.jpg",
+        "publishedAt": "2024-02-07T08:38:28Z",
+        "content": "As part of a push to be more aggressive with its 2024 C44 design, Sauber has made some extensive changes to the car that Valtteri Bottas and Zhou Guanyu will race this season.\r\nOne of the most intrig… [+2685 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "pgatour.com"
+        },
+        "author": "Staff",
+        "title": "Expert Picks: WM Phoenix Open - PGA TOUR - PGA TOUR",
+        "description": "With a new season comes a new evolution for PGA TOUR Expert Picks. Fans of PGA TOUR betting can now see tips and picks for specific markets that the Golfbet tea",
+        "url": "https://www.pgatour.com/article/news/expert-picks/2024/02/06/fantasy-golf-advice-tips-picks-wm-phoenix-open-tpc-scottsdale-scottie-scheffler",
+        "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto/pgatour/news/editorial/2024/02/05/burns-ep.jpg",
+        "publishedAt": "2024-02-07T08:22:36Z",
+        "content": "Written by Staff \r\n@PGATOUR\r\nWith a new season comes a new evolution for PGA TOUR Expert Picks. Fans of PGA TOUR betting can now see tips and picks for specific markets that the Golfbet team will be … [+6070 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nbcsportsbayarea.com"
+        },
+        "author": "Angelina Martin",
+        "title": "Purdy details priceless advice from 49ers greats Montana, Young - NBC Sports Bay Area",
+        "description": "Brock Purdy is soaking in all he can from legendary 49ers quarterbacks Joe Montana and Steve Young.",
+        "url": "http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-joe-montana-steve-young-advice/1700072/",
+        "urlToImage": "https://media.nbcsportsbayarea.com/2024/02/steve-young-brock-purdy-joe-montana-GettyImages-1961125355.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2024-02-07T08:06:06Z",
+        "content": "With the 49ers set to face the Kansas City Chiefs in Super Bowl LVIII on Sunday, quarterback Brock Purdy has a chance to join San Francisco legends Joe Montana and Steve Young as the franchise's only… [+2775 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Milwaukee Journal Sentinel"
+        },
+        "author": "Jim Owczarski",
+        "title": "Short-handed Bucks hang tough with star-laden Suns, lose 114-106. - Milwaukee Journal Sentinel",
+        "description": "The short-handed Bucks hang tough with star-laden Suns, lose 114-106. Khris Middleton left the game injured in the first quarter.",
+        "url": "https://www.jsonline.com/story/sports/nba/bucks/2024/02/06/milwaukee-bucks-injury-report-giannis-antetokounmpo-status-phoenix-suns/72486049007/",
+        "urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2024/02/07/PMJS/72503990007-gan-20240206-pjc-su-5-008.JPG?crop=5253,2956,x0,y273&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-07T07:16:49Z",
+        "content": "PHOENIX The Milwaukee Bucks opened their game against the Phoenix Suns on Tuesday night without all-star point guard Damian Lillard and center Brook Lopez and eight minutes into it they were without … [+9486 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Milwaukee Journal Sentinel"
+        },
+        "author": "Milwaukee Journal Sentinel",
+        "title": "Khris Middleton leaves Bucks game against Suns with left ankle injury - Milwaukee Journal Sentinel",
+        "description": null,
+        "url": "https://www.jsonline.com/story/sports/nba/bucks/2024/02/06/khris-middleton-heads-to-locker-room-in-first-quarter-of-bucks-suns-game-left-ankle-sprain/72501950007/",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T06:56:15Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Shaq, Jamal, & Candace on Klay Thompson's Struggles This Season | NBA on TNT Postgame - Bleacher Report",
+        "description": "NBA on TNT crew offer their perspective on Klay Thompson's frustrations over not playing like the star he used to be for the Golden State Warriors.Subscribe:...",
+        "url": "https://www.youtube.com/watch?v=hzZS6rBfVSw",
+        "urlToImage": "https://i.ytimg.com/vi/hzZS6rBfVSw/maxresdefault.jpg",
+        "publishedAt": "2024-02-07T06:42:37Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "On3.com"
+        },
+        "author": "Zack Geoghegan",
+        "title": "John Calipari and the \"tweak\" that helped Justin Edwards break out against Vanderbilt - KSR",
+        "description": "John Calipari made a \"tweak\" to Justin Edwards' game ahead of Kentucky's win over Vanderbilt, but he wouldn't spoil what it was.",
+        "url": "https://www.on3.com/teams/kentucky-wildcats/news/john-calipari-tweak-helped-justin-edwards-break-out-vanderbilt/",
+        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2024/02/07001438/john-calipari-tweak-helped-justin-edwards-break-out-vanderbilt.png",
+        "publishedAt": "2024-02-07T06:21:19Z",
+        "content": "It took longer than expected, but Justin Edwards finally had his breakout performance. \r\nThe freshman wing posted a career-high 17 points on 5-10 shooting in just 20 minutes during Kentuckys 32-point… [+2994 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deadspin"
+        },
+        "author": "Field Level Media",
+        "title": "No. 24 San Diego St. jumps on Air Force early, coasts to win - Deadspin",
+        "description": "Reese Waters shot 5-for-8 from 3-point distance for all 15 of his points to help No. 24 San Diego State defeat Air Force 77-64 on Tuesday night in their Mountain West matchup in Colorado Springs.",
+        "url": "https://deadspin.com/no-24-san-diego-st-jumps-on-air-force-early-coasts-t-1851233582",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bec1e8039c1c2908d16bd2bd05c5f9c7.jpg",
+        "publishedAt": "2024-02-07T06:10:54Z",
+        "content": "Reese Waters shot 5-for-8 from 3-point distance for all 15 of his points to help No. 24 San Diego State defeat Air Force 77-64 on Tuesday night in their Mountain West matchup in Colorado Springs.\r\nJa… [+1789 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Knicks' Jalen Brunson avoids severe ankle sprain after scare vs. Grizzlies, per report - CBS Sports",
+        "description": "The city of New York will breathe a sigh of relief",
+        "url": "https://www.cbssports.com/nba/news/knicks-jalen-brunson-avoids-severe-ankle-sprain-after-scare-vs-grizzlies-per-report/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/02/07/2dc35b5e-c013-4c52-9b5e-fc5a8cdeff93/thumbnail/1200x675/e0f1e9fbee234f7dcf86f310ffaf4a36/brunson-knicks-g.jpg",
+        "publishedAt": "2024-02-07T06:07:00Z",
+        "content": "The New York Knicks defeated the Memphis Grizzlies on Tuesday night, 123-113, to pick up their 10th win in their last 11 games. It was not without a few frights, however, the worst of which came when… [+2179 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": null,
+        "title": "Oilers rue 'missed opportunities' as win streak ends at 16 - ESPN",
+        "description": "The Oilers, who lost 10 of their first 12 games only to win 16 straight before the All-Star break, saw their streak end Tuesday night, when the Vegas Golden Knights posted a 3-1 victory, keeping Edmonton from tying the NHL record of 17 wins in a row.",
+        "url": "https://www.espn.com/nhl/story/_/id/39475089/edmonton-oilers-win-streak-ends-one-shy-tying-nhl-record",
+        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0207%2Fr1287912_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-02-07T05:52:00Z",
+        "content": "LAS VEGAS -- Chandler Stephenson scored the go-ahead goal, Adin Hill stopped 30 shots and the Vegas Golden Knights brought an end to the Edmonton Oilers' 16-game winning streak with a 3-1 victory on … [+3160 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nbcsportschicago.com"
+        },
+        "author": "K.C. Johnson",
+        "title": "10 observations: Bulls outlast Timberwolves in OT - NBC Sports Chicago",
+        "description": "Huge games from Coby White, DeMar DeRozan and Andre Drummond fuel 23-point comeback",
+        "url": "http://www.nbcsportschicago.com/nba/chicago-bulls/bulls-news/10-observations-bulls-outlast-timberwolves-in-ot/538124/",
+        "urlToImage": "https://media.nbcsportschicago.com/2024/02/USATSI_22458886.jpg?quality=85&strip=all&crop=0px%2C0px%2C5671px%2C3190px&resize=1200%2C675",
+        "publishedAt": "2024-02-07T05:35:07Z",
+        "content": "The Chicago Bulls played their final game before the NBA trade deadline Tuesday night, rallying from 23 points down to defeat the Minnesota Timberwolves 129-123 in overtime at the United Center.\r\n\"It… [+4956 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Detroit Free Press"
+        },
+        "author": "Chris Solari",
+        "title": "Michigan State basketball crushed in crunch by FTs in 59-56 Minny loss - Detroit Free Press",
+        "description": "Tyson Walker aggravated his ailing groin and Michigan State basketball missed key FTs down the stretch in a 59-56 road loss to Minnesota on Tuesday.",
+        "url": "https://www.freep.com/story/sports/college/michigan-state/spartans/2024/02/06/michigan-state-basketball-game-score-recap-minnesota-golden-gophers-tyson-walkier/72500391007/",
+        "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2024/02/07/PDTF/72502162007-usa-20240206-tbs-hw-1-279-jpg.jpg?crop=1824,1027,x0,y547&width=1824&height=1027&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-07T05:30:32Z",
+        "content": "MINNEAPOLIS Tyson Walker and Michigan State basketball started to take control.\r\nIn an instant, the star guard crumpled to the floor but eventually returned. The Spartans, however, could not overcome… [+7454 chars]"
+      }
+    ]
+  },
+  "technology": {
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Nofilmschool.com"
+        },
+        "author": "No Film School",
+        "title": "Take a Look at the First Footage From the Kodak Super 8 Camera - No Film School",
+        "description": null,
+        "url": "https://nofilmschool.com/kodak-super-8",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T14:26:49Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Information"
+        },
+        "author": "Wayne Ma",
+        "title": "Apple Develops a Foldable Clamshell iPhone — The Information - The Information",
+        "description": "Apple is building prototypes of at least two iPhones that fold widthwise like a clamshell, according to a person with direct knowledge of the situation. If Apple ends up launching a foldable iPhone, it would be one of the biggest hardware design changes in th…",
+        "url": "https://www.theinformation.com/articles/apple-develops-a-foldable-clamshell-iphone",
+        "urlToImage": "https://tii.imgix.net/production/articles/12240/01c8fc6d-e344-433e-a464-c2271aaed7f5.png?fm=jpg&auto=compress&w=1200&frame=0",
+        "publishedAt": "2024-02-07T14:00:00Z",
+        "content": "Apple is building prototypes of at least two iPhones that fold widthwise like a clamshell, according to a person with direct knowledge of the situation. If Apple ends up launching a foldable iPhone, … [+549 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "HW News - ASUS ROG Ally 2, YTX Motherboard, Silent RTX 3050 Launch, 7900 XT Price Drop - Gamers Nexus",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=6axcFSslasM",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T12:21:09Z",
+        "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Ivan Mehta",
+        "title": "WhatsApp is preparing to roll out third-party chat support - TechCrunch",
+        "description": "With a month away from the Digital Markets Act (DMA) deadline, WhatsApp is preparing to allow other messaging networks in its app.",
+        "url": "https://techcrunch.com/2024/02/07/whatsapp-is-preparing-to-roll-out-third-party-chat-support/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/whatsapp-logo.jpg?resize=1200,800",
+        "publishedAt": "2024-02-07T11:35:56Z",
+        "content": "With a month away from the Digital Markets Act (DMA) deadline, WhatsApp is preparing to allow other messaging networks in its app.\r\nIn an interview with Wired, Dick Brouwer, an engineering director a… [+2408 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fortnite.com"
+        },
+        "author": "TrackerFortnite - Fortnite News, Updates and Guides",
+        "title": "The McLaren 765LT Bundle + Boosts Drift into Fortnite! - TrackerFortnite - Fortnite News, Updates and Guides",
+        "description": null,
+        "url": "https://www.fortnite.com/news/the-mclaren-765lt-bundle-and-boosts-drift-into-fortnite",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T11:00:59Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wccftech"
+        },
+        "author": "Alessio Palumbo",
+        "title": "Microsoft Isn’t Going Fully Multiplatform or Exiting the Console Market, Says Leaker - Wccftech",
+        "description": "Renowned leaker Nate the Hate said Microsoft isn't going fully multiplatform of exiting the console market. The shift will be for small games.",
+        "url": "https://wccftech.com/microsoft-isnt-going-fully-multiplatform-or-exiting-the-console-market-says-leaker/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/02/next-generation-Xbox-1-scaled.jpg",
+        "publishedAt": "2024-02-07T10:00:00Z",
+        "content": "This week started with lots of high-profile rumors suggesting that Microsoft would soon switch its strategy on exclusive games. Following the previous rumors of titles like Sea of Thieves and Hi-Fi R… [+1641 chars]"
+      },
+      {
+        "source": {
+          "id": "polygon",
+          "name": "Polygon"
+        },
+        "author": "Oli Welsh",
+        "title": "Final Fantasy 7 Rebirth demo released on PS5 - Polygon",
+        "description": "Square Enix has released a free demo for the second game in its FF7 Remake project on PS5, with playable Cloud and Sephiroth and an open-world section to come",
+        "url": "https://www.polygon.com/24063550/final-fantasy-7-rebirth-demo",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/2bBmOnvud8GP15t1u0GdRbv03lM=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25270105/Cait_Sith_Key_Art.jpg",
+        "publishedAt": "2024-02-07T09:43:37Z",
+        "content": "Square Enix has released a free demo for Final Fantasy 7 Rebirth on PlayStation 5, after showing off the second part of its remake of the 1997 classic in a dedicated State of Play stream on Tuesday.\r… [+1976 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "The history of virtual reality that led to Apple Vision Pro - BBC.com",
+        "description": "Apple is turning science fiction into reality but was VR meant to be used like this?",
+        "url": "https://www.bbc.com/reel/video/p0h9dxvq/the-history-of-virtual-reality-that-led-to-apple-vision-pro",
+        "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024xn/p0h9f5zx.jpg",
+        "publishedAt": "2024-02-07T09:30:48Z",
+        "content": "Apple has taken the latest step in mixing our virtual lives with actual reality with the launch for their newest headset. But they weren't the first to the VR game. So what were they meant for to beg… [+88 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Euronews"
+        },
+        "author": null,
+        "title": "The Simpsons have done it again: When animated jokes become reality - Euronews",
+        "description": "The show The Simpsons has become notorious for some of its episodes and jokes becoming eerily accurate. And now, they've apparently foretold the launch of Apple Vision Pro...",
+        "url": "https://www.euronews.com/culture/2024/02/07/the-simpsons-have-done-it-again-when-animated-jokes-become-reality",
+        "urlToImage": "https://static.euronews.com/articles/stories/07/51/84/32/1200x675_cmsv2_5636fac4-d4f2-5764-a7cf-4bbf5fa07bcb-7518432.jpg",
+        "publishedAt": "2024-02-07T07:41:35Z",
+        "content": "The show The Simpsons has become notorious for some of its episodes and jokes becoming eerily accurate. And now, they've apparently foretold the launch of Apple Vision Pro...\r\n The long-running serie… [+9521 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": null,
+        "title": "3 Million Malware-Infected Smart Toothbrushes Used In Swiss DDoS Attacks - Slashdot",
+        "description": "An anonymous reader quotes a report from Tom's Hardware: According to a recent report published by the Aargauer Zeitung (h/t Golem.de), around three million smart toothbrushes have been infected by hackers and enslaved into botnets. The source report says thi…",
+        "url": "https://it.slashdot.org/story/24/02/06/2219207/3-million-malware-infected-smart-toothbrushes-used-in-swiss-ddos-attacks",
+        "urlToImage": "https://a.fsdn.com/sd/topics/security_64.png",
+        "publishedAt": "2024-02-07T06:18:00Z",
+        "content": "That's the moment that got me! The whole thing went from preposterous to magical.\r\nI wonder about two meetings. The first, committing to the idea of an online toothbrush (WTF). The second, the decisi… [+313 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Authority"
+        },
+        "author": null,
+        "title": "Samsung reveals list of Galaxy AI features coming to older phones - - Android Authority",
+        "description": "Samsung UK has seemingly disclosed a list of Galaxy AI features that are headed to older Galaxy phones like the S23 series.",
+        "url": "https://www.androidauthority.com/samsung-galaxy-ai-features-older-phones-3411524/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-GalaxyAI-Transcription-Processing.jpg",
+        "publishedAt": "2024-02-07T05:17:57Z",
+        "content": "<ul><li>Samsung UK has revealed a set of Galaxy AI features headed to older Galaxy phones like the S23 series.</li><li>The list presently includes just four AI features.</li><li>Several other Galaxy … [+1486 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Joe Rossignol",
+        "title": "Apple Starts Improving Vision Pro Personas in visionOS 1.1 Beta - MacRumors",
+        "description": "Apple today released the first developer beta of visionOS 1.1 for the Vision Pro, and the update improves the look of Personas.  visionOS 1.1 prompt...",
+        "url": "https://www.macrumors.com/2024/02/06/visionos-1-1-beta-improved-personas/",
+        "urlToImage": "https://images.macrumors.com/t/J6JbkstdVl1zD5dyoU05ZNeV6hg=/1600x/article-new/2024/02/Persona-Prompt-visionOS-1-1.jpg",
+        "publishedAt": "2024-02-07T04:15:03Z",
+        "content": "Apple today released the first developer beta of visionOS 1.1 for the Vision Pro, and the update improves the look of Personas.\r\nAfter installing visionOS 1.1, Vision Pro users are immediately prompt… [+969 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Filipe Espósito",
+        "title": "iPhone 16 schematics corroborate vertically aligned rear cameras - 9to5Mac",
+        "description": "Even before the iPhone 15 was launched, there were rumors about the iPhone 16 getting a new rear camera module...",
+        "url": "https://9to5mac.com/2024/02/06/iphone-16-vertically-aligned-cameras-2/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iPhone-16-rumor-vertical-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-02-07T02:59:00Z",
+        "content": "Even before the iPhone 15 was launched, there were rumors about the iPhone 16 getting a new rear camera module with the lenses aligned vertically rather than diagonally. The rumor gained more tractio… [+2059 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Apple beats AliveCor lawsuit over heart-rate apps for Apple Watch - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/legal/apple-beats-alivecor-lawsuit-over-heart-rate-apps-apple-watch-2024-02-07/",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T01:50:43Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PetaPixel"
+        },
+        "author": "Jaron Schneider",
+        "title": "NASA Goes Mirrorless: The Nikon Z9 is on the International Space Station - PetaPixel",
+        "description": "It will be Nikon's first mirrorless camera used by the space station crew.",
+        "url": "https://petapixel.com/2024/02/06/nasa-is-finally-going-mirrorless-the-nikon-z9-is-on-the-international-space-station/",
+        "urlToImage": "https://petapixel.com/assets/uploads/2024/02/The-International-Space-Station-is-Finally-Going-Mirrorless-with-the-Nikon-Z9.jpg",
+        "publishedAt": "2024-02-07T01:02:24Z",
+        "content": "NASA/Roscosmos\r\nThe International Space Station (ISS) has been equipped with a large batch of Nikon Z9 cameras as the astronauts there prepare to finally retire the Nikon DSLRs that have served as th… [+3517 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": null,
+        "title": "Asus ROG Zephyrus G14 Review: A Lot to Love for Creators and Gamers - CNET",
+        "description": "Standout profiling and calibration for its class makes Asus' first OLED in the line stand out from the crowd.",
+        "url": "https://www.cnet.com/tech/computing/asus-rog-zephyrus-g14-review-a-lot-to-love-for-creators-and-gamers/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/ac4028f1ab569bfbf32663931131d715c793dda7/hub/2024/02/05/e716f8f8-a7a4-418c-9b14-0b210d9dfc72/asus-rog-zephyrus-g14-2024-5409.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-02-07T00:53:00Z",
+        "content": "Asus brings OLED displays to its ROG Zephyrus line in 2024 and does a fab job for a first timer. The new flashy slash programmable-LED on the cover of the well-designed laptop, plus solid performance… [+13970 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Xbox Game Pass Lineup for February 2024 Announced - IGN Daily Fix - IGN",
+        "description": "In today's Daily Fix:Microsoft has announced February's lineup for new Game Pass titles, including the Resident Evil 3 remake, Madden 24, and more. Also a sn...",
+        "url": "https://www.youtube.com/watch?v=D7njmqk-iy0",
+        "urlToImage": "https://i.ytimg.com/vi/D7njmqk-iy0/maxresdefault.jpg",
+        "publishedAt": "2024-02-06T22:47:48Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kotaku"
+        },
+        "author": "Zack Zwiezen",
+        "title": "Skull And Bones Has Released Nearly 30 Trailers Over 7 Years - Kotaku",
+        "description": "Since 2017, Ubisoft has spent nearly a decade promoting its upcoming open-world pirate sim",
+        "url": "https://kotaku.com/skull-and-bones-every-trailer-teaser-2018-release-date-1851232440",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7af5b2cd8ffe18eac13d70a64d4c0dc9.jpg",
+        "publishedAt": "2024-02-06T22:45:00Z",
+        "content": "Skull and Bones, Ubisofts oft-delayed open-world online pirate video game, is almost here. To celebrate that fact, the game got a fancy new launch trailer. As you might expect for a game originally s… [+3434 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Call of Duty: Modern Warfare 3 and Warzone - Official Season 2 BlackCell Battle Pass Upgrade Trailer - IGN",
+        "description": "Another BlackCell Battle Pass Upgrade is back with Season 2 of Call of Duty: Modern Warfare 3 and Warzone. Players can now earn all new Reactive Skins upon u...",
+        "url": "https://www.youtube.com/watch?v=mDd10Dvp4GU",
+        "urlToImage": "https://i.ytimg.com/vi/mDd10Dvp4GU/maxresdefault.jpg",
+        "publishedAt": "2024-02-06T22:00:19Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Live Science"
+        },
+        "author": "Jennifer Nalewicki",
+        "title": "Bronze Age 'treasure' was crafted with extraterrestrial metal - Livescience.com",
+        "description": "Researchers determined that two artifacts in the Bronze Age hoard were made with meteoric iron.",
+        "url": "https://www.livescience.com/archaeology/bronze-age-treasure-was-crafted-with-extraterrestrial-metal",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/cVrYtSTeoynE2nAoQMw4Fc-1200-80.jpg",
+        "publishedAt": "2024-02-06T21:54:57Z",
+        "content": "A dazzling Bronze Age hoard discovered in Spain more than 60 years ago contains some out-of-this-world metal, as a new analysis reveals that parts of the treasures were made from meteoric iron.\r\nThe … [+3393 chars]"
+      }
+    ]
+  }
+}

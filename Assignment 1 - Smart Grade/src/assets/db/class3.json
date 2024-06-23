@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "image": "/images/31.png",
+    "name": "Miraj Ahmed",
+    "score": "B",
+    "percentage": "57%"
+  },
+  {
+    "id": 2,
+    "image": "/images/32.png",
+    "name": "Jahid Hasan",
+    "score": "B",
+    "percentage": "52%"
+  },
+
+  {
+    "id": 3,
+    "image": "/images/33.png",
+    "name": "Masira Ahmed",
+    "score": "A+",
+    "percentage": "95%"
+  },
+  {
+    "id": 4,
+    "image": "/images/34.png",
+    "name": "Farida Rahman",
+    "score": "A+",
+    "percentage": "91%"
+  },
+  {
+    "id": 5,
+    "image": "/images/35.png",
+    "name": "Saiful Islam",
+    "score": "A",
+    "percentage": "73%"
+  },
+  {
+    "id": 6,
+    "image": "/images/36.png",
+    "name": "Prity Hasan",
+    "score": "A-",
+    "percentage": "67%"
+  },
+  {
+    "id": 7,
+    "image": "/images/37.png",
+    "name": "John Ashfak ",
+    "score": "B",
+    "percentage": "58%"
+  },
+  {
+    "id": 8,
+    "image": "/images/38.png",
+    "name": "Shorifa Islam",
+    "score": "A",
+    "percentage": "77%"
+  },
+  {
+    "id": 9,
+    "image": "/images/39.png",
+    "name": "Naimul Hasan",
+    "score": "A+",
+    "percentage": "84%"
+  },
+  {
+    "id": 10,
+    "image": "/images/310.png",
+    "name": "Lilly Rose",
+    "score": "A",
+    "percentage": "72%"
+  }
+]
