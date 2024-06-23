@@ -12,17 +12,17 @@
 
 ## Table of Contents
 
-| Assignment                    | Path                                                                 |
-| ----------------------------- | -------------------------------------------------------------------- |
-| Assignment 1 - Smart Grade    | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/) |
-| Assignment 2 - Book Finder    | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/) |
-| Assignment 3 - Improve Tasker | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/) |
-| Assignment 4 - News Feeder    | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/) |
-| Assignment 5 - React Blogify  | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/) |
-| Assignment 6 - Shop Center    | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/) |
-| Assignment 7 - Movie DB       | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/) |
-| Assignment 8 - Khana Khazana  | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/) |
-| Assignment 10 - LWS Kart      | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/) |
+| Assignment                    | Path                                                                                                                |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Assignment 1 - Smart Grade    | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/tree/main/Assignment%201%20-%20Smart%20Grade)    |
+| Assignment 2 - Book Finder    | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/tree/main/Assignment%202%20-%20Book%20Finder)    |
+| Assignment 3 - Improve Tasker | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/tree/main/Assignment%203%20-%20Improve%20Tasker) |
+| Assignment 4 - News Feeder    | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/tree/main/Assignment%204%20-%20News%20Feeder)    |
+| Assignment 5 - React Blogify  | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/tree/main/Assignment%205%20-%20React%20Blogify)  |
+| Assignment 6 - Shop Center    | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/tree/main/Assignment%206%20-%20Shop%20Center)    |
+| Assignment 7 - Movie DB       | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/tree/main/Assignment%207%20-%20Movie%20DB)       |
+| Assignment 8 - Khana Khazana  | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/tree/main/Assignment%208%20-%20Khana%20Khazana)  |
+| Assignment 10 - LWS Kart      | [Open](https://github.com/Learn-with-Sumit/rnext-batch-1-solutions/tree/main/Assignment%2010%20-%20LWS%20Kart)      |
 
 <!-- HOW TO RUN -->
 
